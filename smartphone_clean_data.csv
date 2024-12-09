@@ -1,0 +1,917 @@
+brand_name,title,price,spec_score,screen_size,ram,internal_memory,os,battery_capacity,fast_charging_available,processor_brand,memory_card,num_cameras,primary_camera_rear,primary_camera_front,has_5g,has_nfc,has_ir_blaster
+iQOO,iQOO 13 5G,47299,91,6.82,12,256,Android v15,6150,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Tesla,Tesla Pi Phone,69999,84,6.73,16,512,Android v13,5000,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+Vivo,Vivo X200 Pro 5G,62990,95,6.78,12,256,Android v15,6000,1,Dimensity,Not Supported,4,200.0,32.0,1,1,1
+Motorola,Motorola Edge 50 Fusion,22999,85,6.67,8,128,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,0
+Motorola,Motorola Moto G64 5G (12GB RAM + 256GB),16999,85,6.5,12,256,Android v14,6000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Vivo,Vivo V40 5G,32335,85,6.78,8,128,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,50.0,1,0,0
+Motorola,Motorola Moto G85 5G,17999,80,6.67,8,128,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,32.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 14 Pro Plus,22990,86,6.67,12,256,Android v14,6200,1,Snapdragon,Not Supported,4,50.0,20.0,1,1,1
+Realme,Realme GT 7 Pro 5G,42990,89,6.78,12,256,Android v15,6500,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Samsung,Samsung Galaxy A16 5G,18791,82,6.7,8,128,Android v14,5000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Xiaomi,Xiaomi Redmi Note 13 Pro 5G,18800,83,6.67,8,128,Android v13,5100,1,Snapdragon,Not Supported,4,200.0,16.0,1,0,1
+Samsung,Samsung Galaxy S24 Ultra,96799,94,6.8,12,256,Android v14,5000,1,Snapdragon,Not Supported,2,200.0,12.0,1,1,0
+Motorola,Motorola Moto G45 5G,10999,76,6.5,4,128,Android v14,5000,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+OnePlus,OnePlus 13,52990,92,6.82,12,256,Android v15,6000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Vivo,Vivo V40e 5G,26790,83,6.77,8,128,Android v14,5500,1,Dimensity,Not Supported,3,50.0,50.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 13 5G,13879,81,6.67,6,128,Android v13,5000,1,Dimensity,Supported,4,108.0,16.0,1,0,1
+OnePlus,OnePlus Nord CE 4 5G,23975,83,6.7,8,128,Android v14,5500,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+iQOO,iQOO Z9s 5G,23500,83,6.77,8,128,Android v14,5500,1,Dimensity,Not Supported,3,50.0,16.0,1,0,0
+Vivo,Vivo X200 Pro Mini,55990,92,6.31,12,256,Android v15,5700,1,Dimensity,Not Supported,4,50.0,32.0,1,1,1
+Vivo,Vivo T3x 5G,12836,75,6.72,4,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,8.0,1,0,0
+Samsung,Samsung Galaxy M35 5G,14983,81,6.6,6,128,Android v14,6000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Realme,Realme P1 Speed 5G,16862,83,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+OnePlus,OnePlus 13R,45990,87,6.81,8,256,Android v14,6500,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy S23 FE 5G,33699,83,6.4,8,128,Android v13,4500,1,Exynos,Not Supported,4,50.0,10.0,1,1,0
+Nothing,Nothing Phone 3,45990,88,6.67,8,128,Android v14,5000,1,Snapdragon,Not Supported,4,64.0,32.0,1,1,0
+Xiaomi,Xiaomi Redmi Note 13 Pro Plus 5G,23075,87,6.67,8,256,Android v13,5000,1,Dimensity,Not Supported,4,200.0,16.0,1,1,1
+Vivo,Vivo T3 Pro 5G,24999,82,6.77,8,128,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,0
+Motorola,Motorola Edge 50 Fusion (12GB RAM + 256GB),24999,87,6.67,12,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,0
+OPPO,OPPO Reno 12 Pro 5G,33150,90,6.7,12,256,Android v14,5000,1,Dimensity,Supported,4,50.0,50.0,1,1,1
+Motorola,Motorola Edge 50 Pro 5G,31999,87,6.7,8,256,Android v14,4500,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,0
+Infinix,Infinix Note 50 Pro 5G,23990,89,6.78,8,256,Android v15,5000,1,Dimensity,Supported,4,50.0,50.0,1,1,1
+Vivo,Vivo T4 5G,24990,86,6.6,8,128,Android v14,5000,1,Snapdragon,Supported,3,108.0,32.0,1,0,0
+Vivo,Vivo Y300 Plus,23999,82,6.78,8,128,Android v14,5000,1,Snapdragon,Supported,3,50.0,32.0,1,0,0
+Samsung,Samsung Galaxy S23 5G,43700,87,6.1,8,128,Android v13,3900,1,Snapdragon,Not Supported,4,50.0,12.0,1,1,0
+Samsung,Samsung Galaxy S25 Ultra,124990,87,6.9,12,256,Android v15,5500,1,Snapdragon,Not Supported,2,200.0,50.0,1,0,0
+Vivo,Vivo V40 Pro,47780,89,6.78,8,256,Android v14,5500,1,Dimensity,Not Supported,4,50.0,50.0,1,0,0
+Samsung,Samsung Galaxy A35 5G,30999,85,6.6,8,128,Android v14,5000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+iQOO,iQOO 13 Pro,72990,86,6.8,12,512,Android v14,5000,1,Snapdragon,Not Supported,4,200.0,60.0,1,1,0
+Motorola,Motorola Moto G45 5G (8GB RAM + 128GB),12999,81,6.5,8,128,Android v14,5000,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+Motorola,Motorola Moto Edge 50 Neo,23482,87,6.4,8,256,Android v14,4310,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+Vivo,Vivo V50 Pro 5G,54990,89,6.8,8,256,Android v15,5700,1,Dimensity,Not Supported,2,50.0,50.0,1,0,0
+OnePlus,OnePlus Nord CE 3 5G,16999,83,6.7,8,128,Android v13,5000,1,Snapdragon,Supported,4,50.0,16.0,1,1,1
+Vivo,Vivo T3 5G,18499,82,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+OnePlus,OnePlus Nord CE 4 Lite 5G,18186,83,6.67,8,128,Android v14,5500,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+Vivo,Vivo T4x 5G,14990,72,6.78,6,128,Android v15,6000,1,Snapdragon,Supported,3,64.0,16.0,1,0,0
+Xiaomi,Xiaomi Redmi 13 5G,12102,80,6.79,6,128,Android v14,5030,1,Snapdragon,Supported,3,108.0,13.0,1,0,1
+Realme,Realme Narzo 70 Pro 5G,15498,83,6.67,8,128,Android v14,5000,1,Dimensity,Supported,4,50.0,16.0,1,0,0
+iQOO,iQOO 13 5G (16GB RAM + 1TB),60999,93,6.82,16,1024,Android v15,6150,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Xiaomi,Xiaomi Redmi 13C 5G,8999,74,6.74,4,128,Android v13,5000,1,Dimensity,Supported,3,50.0,5.0,1,0,0
+Samsung,Samsung Galaxy A56,43990,87,6.67,8,128,Android v14,5000,1,Exynos,Supported,4,50.0,12.0,1,1,0
+Motorola,Motorola Moto G85 5G (12GB RAM + 256GB),19999,82,6.67,12,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,32.0,1,0,0
+Samsung,Samsung Galaxy S23 Ultra 5G,75999,93,6.8,12,256,Android v13,5000,1,Snapdragon,Not Supported,2,200.0,12.0,1,1,0
+OPPO,OPPO K12x,12999,75,6.67,6,128,Android v14,5100,1,Dimensity,Supported,3,32.0,8.0,1,0,0
+Vivo,Vivo V50 5G,39990,78,6.8,8,256,Android v15,5700,1,Dimensity,Not Supported,4,50.0,50.0,1,0,0
+Samsung,Samsung Galaxy A14 5G,8999,75,6.6,4,64,Android v13,5000,1,Exynos,Supported,4,50.0,13.0,1,0,0
+Apple,Apple iPhone 15,58999,83,6.1,6,128,iOS v17,3349,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+iQOO,iQOO 13 (16GB RAM + 512GB),55499,92,6.82,16,512,Android v15,6150,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Vivo,Vivo T3 Ultra,31999,84,6.78,8,128,Android v14,5500,1,Dimensity,Not Supported,3,50.0,50.0,1,0,0
+Motorola,Motorola Edge 60 Ultra,69990,86,6.82,12,512,Android v15,4600,1,Snapdragon,Not Supported,4,200.0,60.0,1,1,0
+Infinix,Infinix Hot 50 Pro,15990,81,6.78,8,128,Android v14,5000,1,Helio,Supported,3,50.0,8.0,0,1,0
+iQOO,iQOO Z9s Pro 5G,24999,84,6.77,8,128,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 14 Pro 5G,16990,82,6.67,8,128,Android v14,5500,1,Dimensity,Not Supported,4,50.0,20.0,1,1,1
+Motorola,Motorola Edge 50 Pro (12GB RAM + 256GB),33900,88,6.7,12,256,Android v14,4500,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,0
+Samsung,Samsung Galaxy F55 5G,19789,86,6.7,8,128,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Realme,Realme 13 Pro Plus 5G,29988,86,6.7,8,256,Android v14,5200,1,Snapdragon,Not Supported,4,50.0,32.0,1,0,0
+Xiaomi,Xiaomi 15,52990,92,6.36,12,256,Android v15,5400,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy S24 5G,59564,89,6.2,8,256,Android v14,4000,1,Exynos,Not Supported,4,50.0,12.0,1,1,0
+Xiaomi,Xiaomi 15 Ultra,109990,96,6.7,16,512,Android v15,6000,1,Snapdragon,Not Supported,2,200.0,32.0,1,1,1
+Samsung,Samsung Galaxy A57,45990,81,6.72,8,128,Android v15,5000,1,Exynos,Supported,4,50.0,50.0,1,1,0
+Samsung,Samsung Galaxy A55 5G,32980,88,6.6,8,128,Android v14,5000,1,Exynos,Supported,4,50.0,32.0,1,1,0
+OPPO,OPPO Reno 13 Pro 5G,49999,82,6.78,12,256,Android v15,5900,1,Dimensity,Not Supported,4,50.0,50.0,1,1,1
+OPPO,OPPO F27 5G,19870,83,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,32.0,1,0,0
+OnePlus,OnePlus 13 Pro,70990,86,6.78,12,256,Android v14,4800,1,Snapdragon,Not Supported,4,200.0,32.0,1,1,0
+OnePlus,OnePlus 12R,37900,85,6.78,8,128,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Samsung,Samsung Galaxy M55s,22999,85,6.7,8,128,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+CMF,CMF Phone (1),14899,80,6.67,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Infinix,Infinix Note 40X 5G (12GB RAM +256GB),13965,86,6.78,12,256,Android v14,5000,1,Dimensity,Supported,3,108.0,8.0,1,1,1
+OnePlus,OnePlus Nord 4 5G,28984,85,6.74,8,128,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,1
+OnePlus,OnePlus Nord 5,35999,86,6.57,8,128,Android v13,5000,1,Dimensity,Not Supported,4,64.0,32.0,1,1,0
+Poco,Poco X6 Pro 5G,22499,84,6.67,8,256,Android v14,5000,1,Dimensity,Not Supported,4,64.0,16.0,1,1,1
+Realme,Realme P1 5G,14999,80,6.67,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 14 Pro Max,32990,81,6.78,8,128,Android v14,5200,1,Dimensity,Supported,2,200.0,32.0,1,0,1
+Poco,Poco M6 5G (4GB RAM + 64GB),7999,75,6.74,4,64,Android v13,5000,1,Dimensity,Supported,2,50.0,5.0,1,0,1
+Realme,Realme 13 Pro 5G,21933,82,6.7,8,128,Android v14,5200,1,Snapdragon,Not Supported,4,50.0,32.0,1,0,0
+Samsung,Samsung Galaxy S24 FE,58999,88,6.7,8,128,Android v14,4700,1,Exynos,Not Supported,4,50.0,10.0,1,1,0
+Realme,Realme 12X 5G (8GB RAM +128GB),12834,80,6.72,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+iQOO,iQOO Neo 10 Pro 5G,37990,86,6.78,12,256,Android v14,6000,1,Dimensity,Not Supported,3,50.0,32.0,1,0,1
+Apple,Apple iPhone 16 Pro Max,144900,90,6.9,8,256,iOS v18,4685,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+Motorola,Motorola Moto G64 5G,14999,84,6.5,8,128,Android v14,6000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Oppo,Oppo F25 Pro 5G,19999,85,6.7,8,128,Android v14,5000,1,Dimensity,Supported,4,64.0,32.0,1,0,0
+Samsung,Samsung Galaxy A15 5G,15999,81,6.5,8,128,Android v14,5000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+Motorola,Motorola Edge 50 5G,27939,87,6.67,8,256,Android v14,5000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+OnePlus,OnePlus 11R 5G,28499,85,6.74,8,128,Android v13,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Vivo,Vivo T3x 5G (6GB RAM + 128GB),13987,78,6.72,6,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,8.0,1,0,0
+Nothing,Nothing Phone 2a,22498,86,6.7,8,128,Android v14,5000,1,Dimensity,Not Supported,3,50.0,32.0,1,1,0
+Xiaomi,Xiaomi 14,49999,92,6.36,12,512,Android v14,4610,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+iQOO,iQOO Z9x,12470,76,6.72,4,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,8.0,1,0,0
+Vivo,Vivo V30 5G,27235,84,6.78,8,128,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,50.0,1,0,0
+Vivo,Vivo X200 Ultra,79990,88,6.82,12,256,Android v15,5500,1,Snapdragon,Not Supported,4,200.0,50.0,1,1,1
+Realme,Realme P2 Pro 5G,20949,82,6.7,8,128,Android v14,5200,1,Snapdragon,Not Supported,3,50.0,32.0,1,0,0
+Samsung,Samsung Galaxy M05,7479,70,6.7,4,64,Android v14,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy S25,74990,82,6.73,12,256,Android v14,4800,1,Dimensity,Not Supported,4,108.0,12.0,1,1,0
+OnePlus,OnePlus Nord CE 3 Lite 5G,15322,85,6.72,8,128,Android v13,5000,1,Snapdragon,Supported,4,108.0,16.0,1,0,0
+Vivo,Vivo V40 5G (8GB RAM + 256GB),35248,86,6.78,8,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,50.0,1,0,0
+Vivo,Vivo Y300 Pro 5G,21990,82,6.77,8,128,Android v14,6500,1,Snapdragon,Not Supported,3,50.0,32.0,1,0,1
+Xiaomi,Xiaomi Redmi Note 14,12990,80,6.67,6,128,Android v14,5110,1,Dimensity,Supported,3,50.0,16.0,1,1,1
+OnePlus,OnePlus 13 (24GB RAM+ 1TB),69990,95,6.82,24,1024,Android v15,6000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Infinix,Infinix Note 40 Pro 5G,18999,86,6.78,8,256,Android v14,5000,1,Dimensity,Not Supported,4,108.0,32.0,1,1,1
+Realme,Realme 14 Pro 5G,29990,85,6.74,8,256,Android v15,5500,1,Snapdragon,Not Supported,4,50.0,50.0,1,0,0
+Vivo,Vivo X200 Mini,44990,89,6.31,8,256,Android v15,5000,1,Dimensity,Not Supported,4,50.0,50.0,1,1,1
+Infinix,Infinix GT 20 Pro,22140,88,6.78,8,256,Android v14,5000,1,Dimensity,Not Supported,4,108.0,32.0,1,1,1
+Xiaomi,Xiaomi 15 Pro,62990,93,6.73,12,256,Android v15,6100,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Motorola,Motorola Moto G86,24999,87,6.56,8,256,Android v13,5000,1,Dimensity,Supported,4,50.0,32.0,1,0,0
+Vivo,Vivo X200 5G,50990,89,6.67,12,256,Android v15,5800,1,Dimensity,Not Supported,3,50.0,32.0,1,1,1
+Realme,Realme Narzo 70 Turbo 5G,15619,81,6.67,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Realme,Realme GT 6T,29942,85,6.78,8,128,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,1
+Realme,Realme Narzo 70 5G (8GB RAM + 128 GB),14969,83,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Poco,Poco X7 Pro,32990,76,6.8,8,128,Android v14,5000,1,Dimensity,Supported,2,108.0,32.0,1,0,0
+Vivo,Vivo T3 Lite 5G,10499,75,6.56,4,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Apple,Apple iPhone 16,77900,87,6.1,8,128,iOS v18,3561,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+OPPO,OPPO Reno 12 5G,28948,86,6.7,8,256,Android v14,5000,1,Dimensity,Supported,4,50.0,32.0,1,0,1
+Apple,Apple iPhone 13,45499,78,6.1,4,128,iOS v15,3240,1,Bionic,Not Supported,3,12.0,12.0,1,1,0
+Samsung,Samsung Galaxy A36 5G,32990,78,6.67,8,128,Android v14,5000,1,Snapdragon,Supported,4,50.0,32.0,1,1,0
+Vivo,Vivo Y19s,8990,73,6.68,6,128,Android v14,5500,1,Unisoc,Supported,2,50.0,5.0,0,0,0
+Oppo,Oppo F27 Pro Plus 5G,29999,81,6.7,8,256,Android v14,5000,1,Dimensity,Not Supported,3,64.0,8.0,1,0,0
+Poco,Poco M6 Plus 5G,11499,80,6.79,6,128,Android v14,5030,1,Snapdragon,Supported,3,108.0,13.0,1,0,1
+Poco,Poco X6 Neo,13499,83,6.67,8,128,Android v13,5000,1,Dimensity,Supported,3,108.0,16.0,1,0,1
+Poco,Poco F6 5G,25999,84,6.67,8,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,20.0,1,1,1
+Vivo,Vivo V40e 5G (8GB RAM + 256GB),29029,84,6.77,8,256,Android v14,5500,1,Dimensity,Not Supported,3,50.0,50.0,1,0,0
+Realme,Realme 14 Pro Plus 5G,34990,88,6.74,8,256,Android v15,5500,1,Snapdragon,Not Supported,4,50.0,50.0,1,0,0
+Nothing,Nothing Phone 2a Plus,23999,86,6.7,8,256,Android v14,5000,1,Dimensity,Not Supported,3,50.0,50.0,1,1,0
+OPPO,OPPO Reno 13 5G,34990,79,6.78,12,256,Android v15,5600,1,Dimensity,Not Supported,4,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy F15 5G,12187,75,6.45,4,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+OnePlus,OnePlus 12 5G,57362,93,6.82,12,256,Android v14,5400,1,Snapdragon,Not Supported,4,64.0,32.0,1,1,1
+Xiaomi,Xiaomi Redmi 13 5G (8GB RAM + 128GB),13069,83,6.79,8,128,Android v14,5030,1,Snapdragon,Supported,3,108.0,13.0,1,0,1
+Infinix,Infinix Note 15 Pro 5G,19990,86,6.8,8,128,Android v14,5000,1,Dimensity,Supported,4,108.0,32.0,1,0,0
+Nothing,Nothing Phone 2a (12GB RAM + 256GB),21598,87,6.7,12,256,Android v14,5000,1,Dimensity,Not Supported,3,50.0,32.0,1,1,0
+iQOO,iQOO Z9 5G,18499,83,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Oppo,Oppo Find X8 Pro 5G,62990,94,6.78,12,256,Android v15,5910,1,Dimensity,Not Supported,2,50.0,32.0,1,1,1
+Oppo,Oppo A60 5G,14990,76,6.67,6,128,Android v14,5100,1,Dimensity,Supported,2,50.0,5.0,1,1,0
+Realme,Realme Narzo 70 Pro 5G (8GB RAM + 256GB),16998,84,6.67,8,256,Android v14,5000,1,Dimensity,Supported,4,50.0,16.0,1,0,0
+Apple,Apple iPhone 15 Plus,67999,84,6.7,6,128,iOS v17,4383,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+Motorola,Motorola Moto G04 (8 GB RAM + 128GB),7999,71,6.56,8,128,Android v14,5000,1,Unisoc,Supported,2,16.0,5.0,0,0,0
+Realme,Realme 13 5G,13885,83,6.72,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Motorola,Motorola Moto G84 5G,18999,85,6.55,12,256,Android v13,5000,1,Snapdragon,Supported,3,50.0,16.0,1,1,0
+Google,Google Pixel 8 5G,42999,77,6.2,8,128,Android v14,4575,1,Tensor,Not Supported,3,50.0,10.5,1,1,0
+Realme,Realme 12 Pro Plus 5G (12GB RAM + 256GB),25990,86,6.7,12,256,Android v14,5000,1,Snapdragon,Not Supported,4,64.0,32.0,1,0,0
+Xiaomi,Xiaomi Redmi 12 4G (6GB RAM + 128GB),7999,77,6.79,6,128,Android v13,5000,1,Helio,Supported,4,50.0,8.0,0,0,1
+Infinix,Infinix Note 50X 5G,15990,85,6.82,8,256,Android v15,5100,1,Dimensity,Supported,3,50.0,16.0,1,1,1
+Samsung,Samsung Galaxy M15 5G,10999,76,6.45,4,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+Samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),10999,79,6.6,6,128,Android v13,5000,1,Exynos,Supported,4,50.0,13.0,1,0,0
+Vivo,Vivo Y58 5G,18370,82,6.72,8,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,8.0,1,0,0
+OPPO,OPPO K13x,14990,73,6.7,6,128,Android v15,5500,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Xiaomi,Xiaomi Redmi 14 5G,14999,75,6.82,8,128,Android v15,5000,1,Snapdragon,Supported,3,108.0,16.0,1,0,1
+Apple,Apple iPhone 16 Pro,119900,89,6.3,8,128,iOS v18,3582,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+Poco,Poco X6 5G,17999,81,6.67,8,256,Android v13,5100,1,Snapdragon,Not Supported,4,64.0,16.0,1,0,1
+Honor,Honor 200,29998,87,6.7,8,256,Android v14,5200,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,0
+Xiaomi,Xiaomi Redmi Note 13 Pro 5G (8GB RAM + 256GB),19949,84,6.67,8,256,Android v13,5100,1,Snapdragon,Not Supported,4,200.0,16.0,1,0,1
+Samsung,Samsung Galaxy S24 Plus,64999,89,6.7,12,256,Android v14,4900,1,Exynos,Not Supported,4,50.0,12.0,1,1,0
+OnePlus,OnePlus Nord 3 5G,21506,84,6.74,8,128,Android v13,5000,1,Dimensity,Not Supported,4,50.0,16.0,1,1,1
+Infinix,Infinix Zero 40 5G,26599,92,6.78,12,256,Android v14,5000,1,Dimensity,Supported,4,108.0,50.0,1,1,0
+Infinix,Infinix GT 30 Pro,24990,92,6.82,12,256,Android v15,5000,1,Dimensity,Supported,4,200.0,32.0,1,1,0
+OnePlus,OnePlus Nord CE 4 5G (8GB RAM + 256GB),24455,84,6.7,8,256,Android v14,5500,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+Nubia,Nubia Red Magic 10 Pro 5G,59990,80,6.85,12,256,Android v15,7050,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+Oppo,Oppo Find X8 5G,49990,91,6.59,12,256,Android v15,5630,1,Dimensity,Not Supported,4,50.0,32.0,1,1,1
+Oppo,Oppo A3 Pro 5G,17999,77,6.67,8,128,Android v14,5100,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Poco,Poco X6 Pro 5G (12GB RAM + 512GB),24999,86,6.67,12,512,Android v14,5000,1,Dimensity,Not Supported,4,64.0,16.0,1,1,1
+Xiaomi,Xiaomi Redmi Note 13 5G (12GB RAM + 256GB),16990,85,6.67,12,256,Android v13,5000,1,Dimensity,Supported,4,108.0,16.0,1,0,1
+iQOO,iQOO Z9s (8GB RAM + 256GB),22999,83,6.77,8,256,Android v14,5500,1,Dimensity,Not Supported,3,50.0,16.0,1,0,0
+Realme,Realme GT 6,38999,89,6.78,8,256,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy A55 5G (12GB RAM + 256GB),39999,89,6.6,12,256,Android v14,5000,1,Exynos,Supported,4,50.0,32.0,1,1,0
+Xiaomi,Xiaomi Redmi 14C 5G,10999,78,6.78,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+OPPO,OPPO A3x 5G,13499,68,6.67,4,128,Android v14,5100,1,Dimensity,Supported,2,8.0,5.0,1,0,0
+Samsung,Samsung Galaxy M15 5G Prime Edition,13499,76,6.5,4,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+Infinix,Infinix Hot 50 5G,9999,75,6.7,4,128,Android v14,5000,1,Dimensity,Supported,3,48.0,8.0,1,0,0
+Realme,Realme GT 8 Pro,59990,88,6.82,12,512,Android v15,6500,1,Dimensity,Not Supported,2,200.0,50.0,1,1,1
+Oppo,Oppo K13,24990,87,6.78,12,256,Android v15,5700,1,Snapdragon,Supported,4,50.0,32.0,1,1,1
+Xiaomi,Xiaomi Redmi Note 13 Pro Plus (12GB RAM + 256GB),25480,87,6.67,12,256,Android v13,5000,1,Dimensity,Not Supported,4,200.0,16.0,1,1,1
+Vivo,Vivo V40 Lite 5G,35990,86,6.78,8,256,Android v14,5500,1,Snapdragon,Supported,4,50.0,32.0,1,1,0
+Poco,Poco C65,6999,73,6.74,4,128,Android v13,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy S23 (8GB RAM + 256GB),49989,88,6.1,8,256,Android v13,3900,1,Snapdragon,Not Supported,4,50.0,12.0,1,1,0
+Motorola,Motorola Edge 50 Ultra 5G,53986,92,6.7,12,512,Android v14,4500,1,Snapdragon,Not Supported,4,64.0,50.0,1,1,0
+Samsung,Samsung Galaxy A35 5G (8GB RAM + 256GB),33999,86,6.6,8,256,Android v14,5000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Vivo,Vivo V30e 5G,23000,86,6.78,8,128,Android v14,5500,1,Snapdragon,Supported,3,50.0,50.0,1,1,0
+Tecno,Tecno Camon 20 Premier,16999,89,6.67,8,512,Android v13,5000,1,Dimensity,Not Supported,4,108.0,32.0,1,1,0
+OnePlus,OnePlus 12R (16GB RAM + 256GB),41699,87,6.78,16,256,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Samsung,Samsung Galaxy S23 FE 5G (8GB RAM + 256GB),37000,84,6.4,8,256,Android v13,4500,1,Exynos,Not Supported,4,50.0,10.0,1,1,0
+Samsung,Samsung Galaxy M56,34990,88,6.82,8,128,Android v14,5000,1,Exynos,Supported,2,108.0,32.0,1,0,0
+Samsung,Samsung Galaxy M16,16990,77,6.73,8,128,Android v15,7000,1,Exynos,Supported,4,64.0,32.0,1,1,0
+Google,Google Pixel 8A,43999,78,6.1,8,128,Android v14,4492,1,Tensor,Not Supported,3,64.0,13.0,1,1,0
+Samsung,Samsung Galaxy A75 5G,44999,83,6.7,8,128,Android v12,5000,1,Snapdragon,Supported,2,108.0,32.0,1,1,0
+Tecno,Tecno Spark Go 1,7299,63,6.67,4,64,Android v14,5000,1,Unisoc,Supported,2,13.0,8.0,0,0,1
+Vivo,Vivo V40 Pro 5G (12GB RAM + 512GB),53150,90,6.78,12,512,Android v14,5500,1,Dimensity,Not Supported,4,50.0,50.0,1,0,0
+Vivo,Vivo V40 5G (12GB RAM + 512GB),40319,88,6.78,12,512,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,50.0,1,0,0
+Xiaomi,Xiaomi Redmi 13C 4G,7199,73,6.74,4,128,Android v13,5000,1,Helio,Supported,4,50.0,8.0,0,0,0
+Xiaomi,Xiaomi Redmi 14C,10999,75,6.88,4,128,Android v14,5160,1,Helio,Supported,4,50.0,13.0,0,1,0
+Nokia,Nokia X200,24999,85,6.7,8,128,Android v13,5000,1,Snapdragon,Supported,4,50.0,32.0,1,1,0
+iQOO,iQOO Z9s (12GB RAM + 256GB),23999,84,6.77,12,256,Android v14,5500,1,Dimensity,Not Supported,3,50.0,16.0,1,0,0
+iQOO,iQOO Neo 9 Pro 5G,36999,83,6.78,8,256,Android v14,5160,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,1
+Oppo,Oppo K12 Plus,22990,84,6.7,8,256,Android v14,6400,1,Snapdragon,Supported,3,50.0,16.0,1,1,1
+Motorola,Motorola Edge 60 Fusion,29990,78,6.74,8,256,Android v15,5000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+Vivo,Vivo T3x 5G (8GB RAM + 128GB),15999,80,6.72,8,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,8.0,1,0,0
+Apple,Apple iPhone SE 4,49990,67,6.1,0,64,iOS v18,3279,1,Bionic,Not Supported,2,48.0,12.0,1,1,0
+Vivo,Vivo T3 Lite 5G (6GB RAM + 128GB),11499,77,6.56,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+iQOO,iQOO Z9x (6GB RAM + 128GB),13999,79,6.72,6,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,8.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 13 5G (8GB RAM + 256GB),15879,84,6.67,8,256,Android v13,5000,1,Dimensity,Supported,4,108.0,16.0,1,0,1
+Motorola,Motorola Moto G75 5G,32990,88,6.78,8,256,Android v14,5000,1,Snapdragon,Supported,3,50.0,16.0,1,1,0
+Samsung,Samsung Galaxy Z Fold 6,126790,92,7.6,12,256,Android v14,4400,1,Snapdragon,Not Supported,5,50.0,10.0,1,1,0
+Nokia,Nokia Oxygen Ultra 5G,59990,93,6.9,12,256,Android v13,5000,1,Snapdragon,Supported,2,200.0,32.0,1,0,0
+Vivo,Vivo Y28s 5G (6GB RAM + 128GB),13699,77,6.56,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Xiaomi,Xiaomi Redmi 13R 5G,11999,75,6.74,4,128,Android v13,5000,1,Dimensity,Supported,3,50.0,5.0,1,1,0
+Vivo,Vivo T3 Pro (8GB RAM + 256GB),26999,83,6.77,8,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,0
+Samsung,Samsung Galaxy A16 5G (8GB RAM + 256GB),21899,83,6.7,8,256,Android v14,5000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Oppo,Oppo F29 Pro 5G,25990,78,6.74,8,128,Android v14,5000,1,Dimensity,Supported,4,108.0,32.0,1,0,0
+Realme,Realme Narzo 70x 5G (6GB RAM + 128GB),12499,77,6.72,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Honor,Honor 200 Lite,19998,83,6.7,8,256,Android v14,4500,1,Dimensity,Not Supported,4,108.0,50.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 13 Pro 5G (12GB RAM + 256GB),21298,85,6.67,12,256,Android v13,5100,1,Snapdragon,Not Supported,4,200.0,16.0,1,0,1
+iQOO,iQOO 12 5G (16GB RAM + 512GB),57999,90,6.78,16,512,Android v14,5000,1,Snapdragon,Not Supported,4,64.0,16.0,1,1,1
+Google,Google Pixel 7A,30990,86,6.1,8,128,Android v13,4385,1,Tensor,Not Supported,3,64.0,13.0,1,1,0
+Apple,Apple iPhone 14,50999,80,6.1,6,128,iOS v16,3279,1,Bionic,Not Supported,3,12.0,12.0,1,1,0
+OPPO,OPPO Reno 12 Pro 5G (12GB RAM + 512GB),37199,90,6.7,12,512,Android v14,5000,1,Dimensity,Supported,4,50.0,50.0,1,1,1
+Samsung,Samsung Galaxy F05,7949,70,6.74,4,64,Android v14,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy F16 5G,14990,73,6.6,6,128,Android v15,6000,1,Dimensity,Supported,4,50.0,32.0,1,0,0
+Poco,Poco C61,6299,66,6.71,4,64,Android v14,5000,1,Helio,Supported,3,8.0,5.0,0,0,0
+Samsung,Samsung Galaxy A54 5G,23950,88,6.4,8,128,Android v13,5000,1,Exynos,Supported,4,50.0,32.0,1,1,0
+Infinix,Infinix Hot 50 Pro Plus,17990,82,6.78,8,128,Android v14,5000,1,Helio,Supported,3,50.0,13.0,1,1,0
+OPPO,OPPO K12x 5G (8GB RAM + 256GB),15999,78,6.67,8,256,Android v14,5100,1,Dimensity,Supported,3,32.0,8.0,1,0,0
+iQOO,iQOO Z9 Turbo Plus,26990,87,6.78,12,256,Android v14,6400,1,Dimensity,Not Supported,3,50.0,16.0,1,1,1
+Nubia,Nubia Neo 2,18990,80,6.72,8,256,Android v13,6000,1,Unisoc,Not Supported,3,50.0,16.0,1,1,0
+Xiaomi,Xiaomi Redmi Note 13 Pro Plus (12GB RAM + 512GB),28399,88,6.67,12,512,Android v13,5000,1,Dimensity,Not Supported,4,200.0,16.0,1,1,1
+Samsung,Samsung Galaxy M55s 5G (8GB RAM + 256GB),25999,86,6.7,8,256,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Samsung,Samsung Galaxy F54,24349,89,6.7,8,256,Android v13,6000,1,Exynos,Supported,4,108.0,32.0,1,1,0
+Realme,Realme 13 Plus 5G,20999,85,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,1,0
+Motorola,Motorola Edge 60 Pro,59990,84,6.79,12,512,Android v15,4600,1,Snapdragon,Not Supported,4,50.0,60.0,1,1,0
+Xiaomi,Xiaomi Redmi A4 5G,8499,74,6.7,4,128,Android v14,5000,1,Snapdragon,Supported,1,50.0,,1,1,0
+Xiaomi,Xiaomi Redmi 13C 5G (6GB RAM + 128GB),10999,76,6.74,6,128,Android v13,5000,1,Dimensity,Supported,3,50.0,5.0,1,0,0
+Motorola,Motorola Edge 40 Neo,22999,84,6.55,8,128,Android v13,5000,1,Dimensity,Not Supported,3,50.0,32.0,1,1,0
+OnePlus,OnePlus Nord CE 3 Lite 5G (8GB RAM + 256GB),19880,86,6.72,8,256,Android v13,5000,1,Snapdragon,Supported,4,108.0,16.0,1,0,0
+Infinix,Infinix Zero 40 5G (12GB RAM + 512GB),30999,93,6.78,12,512,Android v14,5000,1,Dimensity,Supported,4,108.0,50.0,1,1,0
+OnePlus,OnePlus Nord 4 5G (8GB RAM + 256GB),31848,85,6.74,8,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,1
+CMF,CMF Phone 1 (8GB RAM + 128GB),16097,82,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Poco,Poco F7 Pro 5G,49990,88,6.78,12,256,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Infinix,Infinix GT 20 Pro 5G (12GB RAM +256GB),24999,89,6.78,12,256,Android v14,5000,1,Dimensity,Not Supported,4,108.0,32.0,1,1,1
+Tecno,Tecno Pova 6 Pro,19999,87,6.78,8,256,Android v14,6000,1,Dimensity,Supported,4,108.0,32.0,1,1,1
+Samsung,Samsung Galaxy S24 Ultra (12GB RAM + 512GB),139999,95,6.8,12,512,Android v14,5000,1,Snapdragon,Not Supported,2,200.0,12.0,1,1,0
+Vivo,Vivo V30 Pro 5G,38999,87,6.78,8,256,Android v14,5000,1,Dimensity,Not Supported,4,50.0,50.0,1,0,0
+Realme,Realme 12X,11999,75,6.72,4,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Samsung,Samsung Galaxy M15 5G Prime Edition (6GB RAM +128GB),13099,78,6.5,6,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+Vivo,Vivo V26 Pro,42990,89,6.7,12,256,Android v13,4800,1,Dimensity,Not Supported,4,200.0,32.0,1,1,0
+Vivo,Vivo T2 Pro 5G,22999,81,6.78,8,128,Android v13,4600,1,Dimensity,Not Supported,3,64.0,16.0,1,0,0
+Vivo,Vivo T3 Ultra (12GB RAM + 256GB),35999,86,6.78,12,256,Android v14,5500,1,Dimensity,Not Supported,3,50.0,50.0,1,0,0
+Tecno,Tecno Spark 30 Transformers Special Edition,17999,82,6.8,8,256,Android v14,5000,1,Dimensity,Supported,3,108.0,16.0,1,0,0
+Samsung,Samsung Galaxy M35 5G (8GB RAM + 128GB),20499,83,6.6,8,128,Android v14,6000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Realme,Realme GT 7,47990,83,6.78,12,256,Android v14,5700,1,Dimensity,Not Supported,4,50.0,50.0,1,1,1
+Oppo,Oppo Find X8 Ultra,89990,96,6.82,12,512,Android v15,6000,1,Snapdragon,Not Supported,2,50.0,50.0,1,1,1
+Realme,Realme GT 6 Pro 5G,49990,83,6.78,12,512,Android v15,6000,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,1
+Nothing,Nothing Phone 3a,27990,77,6.72,8,128,Android v14,5000,1,Snapdragon,Not Supported,3,64.0,32.0,1,1,0
+Poco,Poco X6 Neo (12GB RAM + 256GB),15499,84,6.67,12,256,Android v13,5000,1,Dimensity,Supported,3,108.0,16.0,1,0,1
+Poco,Poco M6 5G (6GB RAM + 128GB),9749,74,6.74,6,128,Android v13,5000,1,Dimensity,Supported,2,50.0,5.0,1,0,1
+Vivo,Vivo X100 Ultra,76990,96,6.78,12,256,Android v14,5500,1,Snapdragon,Not Supported,4,200.0,50.0,1,1,1
+Lava,Lava Agni 3 5G,22999,83,6.78,8,128,Android v14,5000,1,Dimensity,Not Supported,4,50.0,16.0,1,0,0
+Apple,Apple iPhone 15 Pro Max,123999,89,6.7,8,256,iOS v17,4441,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+OPPO,OPPO F27 (8GB RAM + 256GB),20988,84,6.67,8,256,Android v14,5000,1,Dimensity,Supported,3,50.0,32.0,1,0,0
+Poco,Poco F7 5G,32990,76,6.72,8,256,Android v14,5000,1,Dimensity,Not Supported,4,50.0,32.0,1,1,1
+Motorola,Motorola Moto S50 Neo,15990,84,6.7,8,256,Android v14,5000,1,Snapdragon,Supported,3,50.0,32.0,1,1,0
+Samsung,Samsung Galaxy F15 5G (6GB RAM +  128GB),12899,77,6.45,6,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+Vivo,Vivo Y200e 5G,19999,79,6.67,6,128,Android v14,5000,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+Google,Google Pixel 9,79999,89,6.3,12,256,Android v14,4700,1,Tensor,Not Supported,3,50.0,10.5,1,1,0
+POCO,POCO M4 Pro 4G,8999,77,6.43,6,64,Android v11,5000,1,Helio,Supported,4,64.0,16.0,0,0,1
+Realme,Realme P1 Speed 5G (12GB RAM + 256GB),20344,84,6.67,12,256,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Motorola,Motorola Edge 60 5G,32990,89,6.7,8,256,Android v14,5000,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,0
+OnePlus,OnePlus Nord CE 4 Lite 5G (8GB RAM + 256GB),21847,84,6.67,8,256,Android v14,5500,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+Infinix,Infinix Note 40 5G,15999,86,6.78,8,256,Android v14,5000,1,Dimensity,Not Supported,4,108.0,32.0,1,1,1
+Vivo,Vivo T3 5G (8GB RAM + 256GB),20499,83,6.67,8,256,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Infinix,Infinix Note 50 Pro Plus 5G,29990,93,6.7,12,512,Android v15,4600,1,Dimensity,Supported,4,200.0,32.0,1,1,1
+Samsung,Samsung Galaxy A14 5G (4GB RAM + 128GB),9999,76,6.6,4,128,Android v13,5000,1,Exynos,Supported,4,50.0,13.0,1,0,0
+Samsung,Samsung Galaxy S24 Ultra (12GB RAM + 1TB),139999,96,6.8,12,1024,Android v14,5000,1,Snapdragon,Not Supported,2,200.0,12.0,1,1,0
+Xiaomi,Xiaomi Redmi 12 5G (8GB RAM + 256GB),12999,80,6.79,8,256,Android v13,5000,1,Snapdragon,Supported,3,50.0,8.0,1,0,1
+Apple,Apple iPhone 18 Pro Max,179900,87,6.9,12,256,iOS v20,5000,1,Dimensity,Not Supported,2,200.0,32.0,1,1,0
+Apple,Apple iPhone 16 Plus,86900,85,6.7,0,128,iOS v18,4674,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+Xiaomi,Xiaomi 14 Ultra,99999,96,6.73,16,512,Android v14,5000,1,Snapdragon,Not Supported,2,50.0,32.0,1,1,1
+Vivo,Vivo V29,31990,84,6.78,8,128,Android v13,4600,1,Snapdragon,Not Supported,4,50.0,50.0,1,0,0
+OnePlus,OnePlus 11 5G,36597,89,6.7,8,128,Android v13,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,0
+Samsung,Samsung Galaxy S24 FE (256GB),56900,88,6.7,8,256,Android v14,4700,1,Exynos,Not Supported,4,50.0,10.0,1,1,0
+Oppo,Oppo F29 Pro Plus 5G,32990,82,6.74,8,256,Android v15,5500,1,Dimensity,Not Supported,4,50.0,16.0,1,0,0
+Realme,Realme Narzo 70x 5G,10998,75,6.72,4,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Samsung,Samsung Galaxy A15 5G (6GB RAM + 128GB),15499,79,6.5,6,128,Android v14,5000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+Realme,Realme 12 Plus 5G,17999,83,6.67,8,128,Android v14,5000,1,Dimensity,Supported,4,50.0,16.0,1,0,0
+Realme,Realme C65 5G,10499,72,6.67,4,64,Android v14,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Honor,Honor X9B,21999,84,6.78,8,256,Android v13,5800,1,Snapdragon,Not Supported,4,108.0,16.0,1,1,1
+Honor,Honor 90 5G,37999,89,6.7,8,256,Android v13,5000,1,Snapdragon,Not Supported,4,200.0,50.0,1,1,0
+Google,Google Pixel 7 Pro 5G,43999,89,6.7,12,128,Android v13,5000,1,Tensor,Not Supported,4,50.0,10.8,1,1,0
+Realme,Realme C2s,3499,63,6.1,3,32,Android v9.0 (Pie),4000,0,Helio,Supported,3,13.0,5.0,0,0,0
+Vivo,Vivo T3 Ultra (8GB RAM + 256GB),33999,85,6.78,8,256,Android v14,5500,1,Dimensity,Not Supported,3,50.0,50.0,1,0,0
+CMF,CMF Phone (2),19990,83,6.7,6,128,Android v15,5100,1,Dimensity,Supported,3,50.0,32.0,1,0,0
+iQOO,iQOO Z9 Lite 5G,10499,75,6.56,4,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy F55 5G (8GB RAM + 256GB),21990,87,6.7,8,256,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Vivo,Vivo V31 Pro 5G,42990,88,6.8,12,256,Android v14,5000,1,Dimensity,Not Supported,4,64.0,50.0,1,0,0
+Samsung,Samsung Galaxy M15 5G (6GB RAM + 128GB),11999,79,6.45,6,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+Tecno,Tecno Pova 7 Pro,23990,89,6.82,8,256,Android v14,6000,1,Dimensity,Supported,4,200.0,32.0,1,1,1
+Honor,Honor 200 Pro,47999,91,6.78,12,512,Android v14,5200,1,Snapdragon,Not Supported,5,50.0,50.0,1,1,0
+OPPO,OPPO Reno 11 Pro 5G,29599,88,6.7,12,256,Android v14,4600,1,Dimensity,Not Supported,4,50.0,32.0,1,1,1
+Google,Google Pixel 9 Pro,109999,92,6.3,16,256,Android v14,4700,1,Tensor,Not Supported,4,50.0,42.0,1,1,0
+Apple,Apple iPhone 14 Plus,56999,82,6.7,6,128,iOS v16,4325,1,Bionic,Not Supported,3,12.0,12.0,1,1,0
+Samsung,Samsung Galaxy A74 5G,42999,90,6.7,8,128,Android v12,5000,1,Snapdragon,Supported,2,108.0,32.0,1,1,0
+iQOO,iQOO Z7 Pro 5G,20999,80,6.78,8,128,Android v13,4600,1,Dimensity,Not Supported,3,64.0,16.0,1,0,0
+Vivo,Vivo T4 Ultra,34990,86,6.78,8,256,Android v15,6000,1,Dimensity,Not Supported,3,50.0,50.0,1,0,0
+Asus,Asus ROG Phone 9 Pro,119900,93,6.78,16,512,Android v15,5800,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+Realme,Realme Narzo 70 Turbo 5G (12GB RAM + 256GB),19698,85,6.67,12,256,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Tecno,Tecno Pova 6 Neo 5G,12999,76,6.67,6,128,Android v14,5000,1,Dimensity,Supported,3,108.0,8.0,1,1,1
+iQOO,iQOO Z9s Pro (8GB RAM + 256GB),26999,84,6.77,8,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,0
+Infinix,Infinix Note 40X 5G,13999,85,6.78,8,256,Android v14,5000,1,Dimensity,Supported,3,108.0,8.0,1,1,1
+Realme,Realme P1 5G (8GB RAM+ 128GB),15500,82,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Vivo,Vivo Y03,6990,65,6.56,4,64,Android v14,5000,1,Helio,Supported,3,13.0,5.0,0,0,0
+Oppo,Oppo K12,21999,84,6.7,8,256,Android v14,5500,1,Snapdragon,Supported,3,50.0,16.0,1,1,1
+OnePlus,OnePlus 12 (16GB RAM + 512GB),69988,94,6.82,16,512,Android v14,5400,1,Snapdragon,Not Supported,4,64.0,32.0,1,1,1
+Honor,Honor Magic 6 Pro,89998,95,6.8,12,512,Android v14,5600,1,Snapdragon,Not Supported,4,180.0,50.0,1,1,1
+Motorola,Motorola Moto G34 5G (8GB RAM + 128GB),11999,77,6.5,8,128,Android v14,5000,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+Oppo,Oppo Find X7 Ultra,69990,94,6.82,12,256,Android v14,5000,1,Snapdragon,Not Supported,2,50.0,32.0,1,1,1
+Realme,Realme 12 Pro 5G,22789,82,6.7,8,128,Android v14,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,0,0
+Vivo,Vivo T2x 5G (6GB RAM + 128GB),12999,78,6.58,6,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+iQOO,iQOO 12 5G,52999,89,6.78,12,256,Android v14,5000,1,Snapdragon,Not Supported,4,64.0,16.0,1,1,1
+Samsung,Samsung Galaxy S22 5G,36184,86,6.1,8,128,Android v12,3700,1,Snapdragon,Not Supported,4,50.0,10.0,1,1,0
+Samsung,Samsung Galaxy A26 5G,19990,75,6.56,8,128,Android v15,5160,1,Exynos,Supported,4,50.0,16.0,1,1,0
+OPPO,OPPO A3x 4G,8999,57,6.67,4,64,Android v14,5100,1,Snapdragon,Supported,2,8.0,5.0,0,0,0
+Xiaomi,Xiaomi 14 Civi,40999,89,6.55,8,256,Android v14,4700,1,Snapdragon,Not Supported,5,50.0,32.0,1,1,1
+iQOO,iQOO Z9x (8GB RAM + 128GB),15499,82,6.72,8,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,8.0,1,0,0
+iQOO,iQOO Z9 Turbo,32990,85,6.78,12,256,Android v14,6000,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,1
+Infinix,Infinix Hot 50i,9999,72,6.7,4,128,Android v14,5000,1,Helio,Supported,2,48.0,8.0,0,0,0
+Samsung,Samsung Galaxy A25 5G,17910,84,6.5,8,128,Android v14,5000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Nothing,Nothing Phone 2 (12GB RAM + 256GB),37999,89,6.7,12,256,Android v13,4700,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,0
+Samsung,Samsung Galaxy S21 FE 5G,29999,86,6.4,8,128,Android v12,4500,1,Exynos,Not Supported,4,12.0,32.0,1,1,0
+Realme,Realme GT 5G,18799,85,6.43,8,128,Android v11,4500,1,Snapdragon,Not Supported,4,64.0,16.0,1,1,0
+Vivo,Vivo T4 Pro 5G,34990,80,6.74,8,256,Android v15,5700,1,Dimensity,Supported,4,50.0,50.0,1,0,0
+Poco,Poco M6 Plus 5G (8GB RAM + 128GB),12499,83,6.79,8,128,Android v14,5030,1,Snapdragon,Supported,3,108.0,13.0,1,0,1
+Nubia,Nubia Z70 Ultra,59990,82,6.82,12,256,Android v15,6200,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Nothing,Nothing Phone 2a Plus (12GB RAM + 256GB),25999,87,6.7,12,256,Android v14,5000,1,Dimensity,Not Supported,3,50.0,50.0,1,1,0
+Honor,Honor Magic 7 Pro,66990,95,6.8,12,256,Android v15,5850,1,Snapdragon,Not Supported,4,200.0,50.0,1,1,1
+Vivo,Vivo Y28s 5G,13499,75,6.56,4,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Poco,Poco M7 Pro 5G,12990,77,6.78,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,1
+OnePlus,OnePlus 12R (8GB RAM + 256GB),39550,86,6.78,8,256,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Realme,Realme 12 Pro Plus 5G (8GB RAM + 256GB),23849,85,6.7,8,256,Android v14,5000,1,Snapdragon,Not Supported,4,64.0,32.0,1,0,0
+Google,Google Pixel 9A,49990,86,6.3,8,128,Android v15,5000,1,Tensor,Not Supported,3,48.0,13.0,1,1,0
+Vivo,Vivo Y18,8499,71,6.56,4,64,Android v14,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+OPPO,OPPO A3x 4G (4GB RAM + 128GB),9999,58,6.67,4,128,Android v14,5100,1,Snapdragon,Supported,2,8.0,5.0,0,0,0
+Tecno,Tecno Phantom Ultimate 2 Tri Fold,129990,86,10.0,12,256,Android v15,6500,1,Dimensity,Not Supported,5,50.0,32.0,1,1,1
+Oppo,Oppo A3 5G 2024,14999,77,6.67,6,128,Android v14,5100,1,Dimensity,Supported,2,50.0,5.0,1,0,0
+Apple,Apple iPhone 17 Air,79990,75,6.1,8,128,iOS v18,3000,1,Bionic,Not Supported,3,12.0,24.0,1,1,0
+Motorola,Motorola Moto S50,26990,76,6.36,12,256,Android v14,4310,1,Dimensity,Not Supported,4,50.0,32.0,1,0,0
+Realme,Realme 13 Pro Plus 5G (12GB RAM + 512GB),32178,88,6.7,12,512,Android v14,5200,1,Snapdragon,Not Supported,4,50.0,32.0,1,0,0
+Samsung,Samsung Galaxy M35 5G (8GB RAM + 256GB),20997,84,6.6,8,256,Android v14,6000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Realme,Realme GT 6 5G (16GB RAM + 512GB),42999,90,6.78,16,512,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Infinix,Infinix Zero Flip 5G,49999,89,6.9,8,512,Android v14,4720,1,Dimensity,Not Supported,3,50.0,50.0,1,1,0
+Realme,Realme 12X (6GB RAM +128GB),12090,77,6.72,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Poco,Poco X6 5G (12GB RAM + 512GB),19999,84,6.67,12,512,Android v13,5100,1,Snapdragon,Not Supported,4,64.0,16.0,1,0,1
+Motorola,Motorola Moto G04,6999,65,6.56,4,64,Android v14,5000,1,Unisoc,Supported,2,16.0,5.0,0,0,0
+Xiaomi,Xiaomi Redmi 13C 5G (8GB RAM + 256GB),12999,79,6.74,8,256,Android v13,5000,1,Dimensity,Supported,3,50.0,5.0,1,0,0
+Apple,Apple iPhone 15 (256GB),68999,84,6.1,6,256,iOS v17,3349,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+OPPO,OPPO Reno 11,27999,88,6.7,8,128,Android v14,5000,1,Dimensity,Supported,4,50.0,32.0,1,1,1
+Realme,Realme 12 Pro Plus,26920,84,6.7,8,128,Android v14,5000,1,Snapdragon,Not Supported,4,64.0,32.0,1,0,0
+OnePlus,OnePlus 11R (16GB RAM + 256GB),35946,87,6.74,16,256,Android v13,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Poco,Poco X7,31990,75,6.77,8,128,Android v13,5000,1,Snapdragon,Supported,4,50.0,32.0,1,0,0
+Nothing,Nothing Phone 2,36999,88,6.7,8,128,Android v13,4700,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,0
+Vivo,Vivo V27,30995,85,6.78,8,128,Android v13,4600,1,Dimensity,Not Supported,4,50.0,50.0,1,0,0
+Jio,Jio JioPhone 5G,9990,64,6.5,4,32,Android v12,5000,1,Dimensity,Supported,3,13.0,5.0,1,0,0
+Honor,Honor X9c,27990,85,6.78,8,256,Android v14,6600,1,Snapdragon,Not Supported,3,108.0,16.0,1,1,1
+Apple,Apple iPhone 16 Pro Max (1TB),184900,91,6.9,8,1024,iOS v18,4685,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+Infinix,Infinix Note 40 Pro Racing Edition,18999,86,6.78,8,256,Android v14,5000,1,Dimensity,Not Supported,4,108.0,32.0,1,1,1
+Realme,Realme C63 5G,10780,74,6.67,4,128,Android v14,5000,1,Dimensity,Supported,2,32.0,8.0,1,0,0
+Realme,Realme P1 Pro 5G,19490,80,6.7,8,128,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,0
+Vivo,Vivo Y200 Pro 5G,24999,79,6.78,8,128,Android v14,5000,1,Snapdragon,Not Supported,3,64.0,16.0,1,0,0
+iQOO,iQOO Neo 10,30990,86,6.8,12,256,Android v15,6500,1,Snapdragon,Not Supported,3,64.0,32.0,1,1,1
+Google,Google Pixel 9 Pro XL,124999,93,6.8,16,256,Android v14,5060,1,Tensor,Not Supported,4,50.0,42.0,1,1,0
+Samsung,Samsung Galaxy M14 4G,8245,74,6.72,4,64,Android v13,5000,1,Snapdragon,Supported,4,50.0,13.0,0,0,0
+Vivo,Vivo X Fold 3 Pro,159999,98,8.03,16,512,Android v14,5700,1,Snapdragon,Not Supported,5,64.0,32.0,1,1,1
+Apple,Apple iPhone 15 Plus (256GB),77999,85,6.7,6,256,iOS v17,4383,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+Nokia,Nokia 7610 5G,52990,90,6.67,12,256,Android v13,4500,1,Snapdragon,Not Supported,4,108.0,32.0,1,1,0
+Xiaomi,Xiaomi Redmi Note 15 Pro,24990,76,6.74,8,256,Android v14,5000,1,Dimensity,Not Supported,4,108.0,32.0,1,1,1
+Tecno,Tecno Phantom X2 Pro,29999,89,6.8,12,256,Android v12,5160,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+Poco,Poco F4 (12GB RAM + 256GB),17999,86,6.67,12,256,Android v12,4500,1,Snapdragon,Not Supported,4,64.0,20.0,1,1,0
+Nothing,Nothing Phone 1,24705,85,6.55,8,128,Android v12,4500,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,0
+Infinix,Infinix Hot 50 5G (8 GB RAM + 128 GB),10999,79,6.7,8,128,Android v14,5000,1,Dimensity,Supported,3,48.0,8.0,1,0,0
+OnePlus,OnePlus Ace 5 Pro,49990,83,6.78,12,256,Android v14,6500,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,1
+Motorola,Motorola Moto G35 5G,18990,79,6.72,4,128,Android v14,5000,1,Unisoc,Supported,3,50.0,16.0,1,1,0
+Realme,Realme 13 Pro Plus 5G (12GB RAM + 256GB),30880,87,6.7,12,256,Android v14,5200,1,Snapdragon,Not Supported,4,50.0,32.0,1,0,0
+Samsung,Samsung Galaxy S25 FE,62990,80,6.67,12,256,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,0
+Samsung,Samsung Galaxy Z Fold 7,169990,84,7.8,12,256,Android v15,4800,1,Snapdragon,Not Supported,5,50.0,12.0,1,1,0
+Realme,Realme C61,7449,68,6.74,4,64,Android v14,5000,1,Unisoc,Supported,2,32.0,5.0,0,0,0
+Poco,Poco F6 5G (12GB RAM + 512GB),30999,85,6.67,12,512,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,20.0,1,1,1
+Realme,Realme GT 6T (8GB RAM + 256GB),32988,86,6.78,8,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,1
+Motorola,Motorola Moto G04s,7299,69,6.6,4,64,Android v14,5000,1,Unisoc,Supported,2,50.0,5.0,0,0,0
+Xiaomi,Xiaomi Redmi Turbo 3,23990,84,6.67,12,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,20.0,1,1,1
+Nothing,Nothing Phone 2a (8GB RAM + 256GB),23099,86,6.7,8,256,Android v14,5000,1,Dimensity,Not Supported,3,50.0,32.0,1,1,0
+OnePlus,OnePlus Ace 3 Pro,37990,87,6.78,12,256,Android v14,6100,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Poco,Poco C75,8990,76,6.88,6,128,Android v14,5160,1,Helio,Supported,3,50.0,13.0,0,1,0
+Infinix,Infinix Hot 40 Pro,12990,86,6.78,8,128,Android v13,5000,1,Helio,Supported,4,108.0,32.0,0,1,0
+Motorola,Motorola Moto G54 5G,14999,84,6.5,8,128,Android v13,6000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Samsung,Samsung Galaxy S21 FE (Snapdragon),30499,87,6.4,8,256,Android v13,4500,1,Snapdragon,Not Supported,4,12.0,32.0,1,1,0
+Tecno,Tecno Phantom V Flip,29999,88,6.9,8,256,Android v14,4000,1,Dimensity,Not Supported,3,64.0,32.0,1,1,0
+Infinix,Infinix Hot 40i,8898,78,6.6,8,256,Android v13,5000,1,Unisoc,Supported,3,50.0,32.0,0,0,0
+Samsung,Samsung Galaxy A05,7859,70,6.7,4,64,Android v13,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy S20 FE 5G,26990,88,6.5,8,128,Android v10,4500,1,Snapdragon,Supported,4,12.0,32.0,1,1,0
+Samsung,Samsung Galaxy S26 Ultra,159990,85,6.9,12,256,Android v15,5000,1,Dimensity,Not Supported,2,50.0,50.0,1,0,0
+Tecno,Tecno Pop 9 5G,9499,74,6.67,4,64,Android v14,5000,1,Dimensity,Supported,2,48.0,8.0,1,1,1
+Realme,Realme Narzo 70 Turbo 5G (8GB RAM +128GB),16698,84,6.67,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+iQOO,iQOO Z9s Pro (12GB RAM + 256GB),28999,85,6.77,12,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,0
+OnePlus,OnePlus Ace 5,45990,89,6.78,12,256,Android v14,6500,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+OPPO,OPPO Reno 12F 5G,29990,87,6.67,12,256,Android v14,5000,1,Dimensity,Supported,4,50.0,32.0,1,1,1
+Realme,Realme GT 6T (12GB RAM + 256GB),33800,87,6.78,12,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,1
+Poco,Poco X8 Pro 5G,45990,88,6.67,12,512,Android v15,5500,1,Dimensity,Not Supported,4,50.0,32.0,1,1,1
+Xiaomi,Xiaomi Redmi A3x,6699,62,6.71,3,64,Android v14,5000,1,Unisoc,Supported,3,8.0,5.0,0,0,0
+Samsung,Samsung Galaxy A55 5G (8GB RAM + 256GB),42999,89,6.6,8,256,Android v14,5000,1,Exynos,Supported,4,50.0,32.0,1,1,0
+Realme,Realme 12 Plus 5G (8GB RAM + 256GB),17390,84,6.67,8,256,Android v14,5000,1,Dimensity,Supported,4,50.0,16.0,1,0,0
+Vivo,Vivo S19 Pro,37990,89,6.78,8,256,Android v14,5500,1,Dimensity,Not Supported,4,50.0,50.0,1,1,1
+Motorola,Motorola Moto G34 5G,10999,74,6.5,4,128,Android v14,5000,1,Snapdragon,Supported,3,50.0,16.0,1,0,0
+Samsung,Samsung Galaxy Z Flip 6 5G,78999,93,6.7,12,256,Android v14,4000,1,Snapdragon,Not Supported,3,50.0,10.0,1,1,0
+Samsung,Samsung Galaxy M55,23500,86,6.67,8,128,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Samsung,Samsung Galaxy M14 (6GB RAM + 128GB),10999,79,6.6,6,128,Android v13,6000,1,Exynos,Supported,4,50.0,13.0,1,0,0
+Vivo,Vivo V27 4G,19990,80,6.64,8,128,Android v13,4600,1,Helio,Supported,4,50.0,16.0,1,0,0
+Poco,Poco M6 5G,9249,73,6.74,4,128,Android v13,5000,1,Dimensity,Supported,2,50.0,5.0,1,0,1
+Motorola,Motorola Moto G91 5G,19990,80,6.8,6,128,Android v12,5000,1,Snapdragon,Supported,4,108.0,32.0,1,1,0
+Samsung,Samsung Galaxy M34 5G,14990,82,6.5,6,128,Android v13,6000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+itel,itel A56,5490,50,6.0,1,16,Android v9.0 (Pie),4000,0,Dimensity,Supported,2,8.0,5.0,0,0,0
+Tecno,Tecno Spark 30C 5G,10499,73,6.67,4,128,Android v14,5000,1,Dimensity,Supported,2,48.0,8.0,1,1,1
+OnePlus,OnePlus Nord 4 5G (12GB RAM + 256GB),33500,86,6.74,12,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,1
+Vivo,Vivo Y28e 5G,11999,70,6.56,4,128,Android v14,5000,1,Dimensity,Supported,3,13.0,5.0,1,0,0
+iQOO,iQOO Neo 9S Pro Plus 5G,34990,85,6.78,12,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,1
+Tecno,Tecno Spark 20 Pro,12999,76,6.78,8,256,Android v13,5000,1,Helio,Supported,3,108.0,32.0,0,1,0
+OPPO,OPPO A79 5G,16899,80,6.72,8,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Infinix,Infinix Note 30 5G (8GB RAM + 256GB),15999,87,6.78,8,256,Android v13,5000,1,Dimensity,Supported,3,108.0,16.0,1,1,0
+Poco,Poco F6 Pro,45990,86,6.67,12,256,Android v14,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Oppo,Oppo Find X6 Pro,71990,91,6.82,12,256,Android v13,5000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Apple,Apple iPhone 15 Pro,103999,87,6.1,8,128,iOS v17,3274,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+Poco,Poco X3 Pro (8GB RAM + 128GB),13999,85,6.67,8,128,Android v11,5160,1,Snapdragon,Supported,2,48.0,20.0,0,0,1
+Samsung,Samsung Galaxy S21 Ultra,58990,93,6.8,12,256,Android v10,5000,1,Exynos,Not Supported,2,108.0,40.0,1,1,0
+Jio,Jio Phone 3,4499,49,5.0,2,64,Android v8.1 (Oreo),2800,0,Dimensity,Supported,2,5.0,2.0,0,0,0
+Samsung,Samsung Galaxy Wide 4,19990,62,6.21,4,64,Android v9.0 (Pie),3500,0,Dimensity,Supported,3,13.0,16.0,0,0,0
+Nubia,Nubia Red Magic 10 Ultra 5G,69990,89,7.0,12,256,Android v15,7000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+Doogee,Doogee Blade 10 Ultra,28299,75,6.56,8,256,Android v14,5150,1,Unisoc,Supported,2,50.0,8.0,0,1,0
+Doogee,Doogee Blade 10 Pro,23469,71,6.56,6,256,Android v14,5150,1,Dimensity,Supported,2,50.0,8.0,0,1,0
+Realme,Realme P2 Pro (12GB RAM + 256GB),24999,84,6.7,12,256,Android v14,5200,1,Snapdragon,Not Supported,3,50.0,32.0,1,0,0
+Oukitel,Oukitel WP50,34899,76,6.6,4,256,Android v14,6500,1,Dimensity,Not Supported,4,48.0,8.0,1,1,0
+Realme,Realme 13 Pro 5G (12GB RAM + 512GB),26900,85,6.7,12,512,Android v14,5200,1,Snapdragon,Not Supported,4,50.0,32.0,1,0,0
+Samsung,Samsung Galaxy A06,8499,71,6.74,4,64,Android v14,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Vivo,Vivo V30e (8GB RAM + 256GB),25699,86,6.78,8,256,Android v14,5500,1,Snapdragon,Supported,3,50.0,50.0,1,1,0
+Samsung,Samsung Galaxy F35 5G,17990,75,6.5,6,128,Android v14,6000,1,Exynos,Supported,4,50.0,16.0,1,1,0
+Tecno,Tecno Pova 6 4G,11990,84,6.78,8,256,Android v14,6000,1,Helio,Not Supported,3,108.0,32.0,1,1,1
+Oppo,Oppo F27 Pro 5G,20990,81,6.72,8,128,Android v14,5000,1,Dimensity,Supported,4,50.0,8.0,1,0,0
+Infinix,Infinix Note 40 Pro Plus 5G,21499,88,6.78,12,256,Android v14,4600,1,Dimensity,Not Supported,4,108.0,32.0,1,1,1
+Lava,Lava Blaze Curve 5G,15699,83,6.67,8,128,Android v13,5000,1,Dimensity,Not Supported,4,64.0,32.0,1,0,0
+Infinix,Infinix Smart 9,6999,65,6.7,3,64,Android v14,5000,1,Helio,Supported,2,13.0,8.0,0,0,1
+Google,Google Pixel 8 (8GB RAM + 256 GB),47999,78,6.2,8,256,Android v14,4575,1,Tensor,Not Supported,3,50.0,10.5,1,1,0
+itel,itel P55 5G (6GB RAM + 128GB),8972,75,6.6,6,128,Android v13,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Xiaomi,Xiaomi Redmi 12 5G (6GB RAM + 128GB),11499,77,6.79,6,128,Android v13,5000,1,Snapdragon,Supported,3,50.0,8.0,1,0,1
+Motorola,Motorola Moto G15,12990,73,6.56,6,128,Android v14,5000,1,Helio,Supported,3,64.0,16.0,0,1,0
+Realme,Realme Narzo 70 5G,15982,80,6.67,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Vivo,Vivo Y23,15990,73,6.6,4,128,Android v13,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy S25 Plus,92990,83,6.7,12,256,Android v14,5000,1,Exynos,Not Supported,4,108.0,32.0,1,1,0
+Motorola,Motorola Edge 40 5G,26999,87,6.55,8,256,Android v13,4400,1,Dimensity,Not Supported,3,50.0,32.0,1,1,0
+Samsung,Samsung Galaxy M52 5G,21560,83,6.7,6,128,Android v11,5000,1,Snapdragon,Supported,4,64.0,32.0,1,1,0
+itel,itel P36,6490,48,6.5,1,16,Android v9.0 (Pie),5000,0,Dimensity,Not Supported,3,8.0,8.0,0,0,0
+Apple,Apple iPhone 9,29990,61,4.7,3,64,iOS v13.0,2050,1,A13,Not Supported,2,12.0,7.0,0,1,0
+Honor,Honor X60 Pro,17990,79,6.78,8,128,Android v14,6600,1,Snapdragon,Not Supported,2,108.0,8.0,1,0,1
+Samsung,Samsung Galaxy M15 5G Prime Edition (8GB RAM +128GB),16499,81,6.5,8,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+iQOO,iQOO Z9 Lite 5G (6GB RAM +128GB),11498,76,6.56,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy F56 5G,27990,87,6.7,8,128,Android v15,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Oppo,Oppo A3 Pro 5G (8GB RAM + 256GB),18190,78,6.67,8,256,Android v14,5100,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Oppo,Oppo F27 Pro Plus 5G (8GB RAM +128GB),27999,80,6.7,8,128,Android v14,5000,1,Dimensity,Not Supported,3,64.0,8.0,1,0,0
+Samsung,Samsung Galaxy F15 5G (8GB RAM + 128GB),14990,80,6.45,8,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+HTC,HTC Wildfire E6 Plus,10990,62,5.56,4,64,Android v13,5000,1,Helio,Supported,3,32.0,8.0,0,0,0
+iQOO,iQOO Z10 5G,24990,78,6.78,8,256,Android v14,5000,1,Dimensity,Supported,4,50.0,32.0,1,0,0
+Tecno,Tecno Camon 30 Premier 5G,39999,90,6.77,12,512,Android v14,5000,1,Dimensity,Not Supported,4,50.0,50.0,1,1,1
+Realme,Realme C67 5G,11485,75,6.72,4,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Nubia,Nubia Red Magic 10 Pro Plus 5G,69990,83,7.0,16,256,Android v15,7050,1,Dimensity,Not Supported,4,108.0,32.0,1,1,0
+Xiaomi,Xiaomi Redmi A3,6999,64,6.71,3,64,Android v13,5000,1,Helio,Supported,2,8.0,5.0,0,0,0
+Nokia,Nokia G42 5G,11499,75,6.56,6,128,Android v13,5000,1,Snapdragon,Supported,4,50.0,8.0,1,0,0
+Vivo,Vivo V29e,25999,85,6.78,8,128,Android v13,5000,1,Snapdragon,Supported,3,64.0,50.0,1,1,0
+OnePlus,OnePlus Nord CE 5 5G,29990,87,6.7,8,256,Android v14,5000,1,Snapdragon,Supported,4,50.0,32.0,1,1,0
+Infinix,Infinix Note 14 Pro 5G,17990,85,6.78,8,128,Android v14,5000,1,Dimensity,Supported,4,108.0,32.0,1,0,0
+Realme,Realme C55 (8GB RAM + 128GB),11499,79,6.72,8,128,Android v13,5000,1,Helio,Supported,3,64.0,8.0,0,0,0
+OnePlus,OnePlus Open 5G,100999,95,7.82,16,512,Android v14,4805,1,Snapdragon,Not Supported,5,64.0,32.0,1,1,1
+Duoqin,Duoqin F22 Pro,9990,56,3.54,4,64,Android v12,2150,0,Helio,Supported,2,8.0,2.0,0,0,0
+Motorola,Motorola Moto G60,14999,84,6.78,6,128,Android v11,6000,1,Snapdragon,Supported,4,108.0,32.0,0,1,0
+Samsung,Samsung Galaxy A17,24990,75,6.74,6,128,Android v15,5000,1,Helio,Supported,4,50.0,32.0,1,1,0
+Lava,Lava Agni 3 5G (8GB RAM + 256GB),24999,84,6.78,8,256,Android v14,5000,1,Dimensity,Not Supported,4,50.0,16.0,1,0,0
+Tecno,Tecno Pop 9 5G (4GB RAM + 128GB),9999,75,6.67,4,128,Android v14,5000,1,Dimensity,Supported,2,48.0,8.0,1,1,1
+Tecno,Tecno Pova 6 Neo 5G (8GB RAM + 256GB),13998,78,6.67,8,256,Android v14,5000,1,Dimensity,Supported,3,108.0,8.0,1,1,1
+Apple,Apple iPhone 16 Pro (256GB),129900,89,6.3,8,256,iOS v18,3582,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+Realme,Realme C63 5G (6GB RAM + 128GB),11495,76,6.67,6,128,Android v14,5000,1,Dimensity,Supported,2,32.0,8.0,1,0,0
+Vivo,Vivo Y18t,9499,72,6.56,4,128,Android v14,5000,1,Unisoc,Supported,3,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy A06s,9999,70,6.74,6,128,Android v13,5000,1,Dimensity,Supported,4,50.0,16.0,0,0,0
+Realme,Realme Narzo N65 5G (6GB RAM + 128GB),11868,76,6.67,6,128,Android v14,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Samsung,Samsung Galaxy F55 5G (12GB RAM + 256GB),28999,88,6.7,12,256,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Realme,Realme C65 5G (6GB RAM + 128GB),11648,75,6.67,6,128,Android v14,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Realme,Realme 13x,12999,78,6.78,6,128,Android v14,5000,1,Dimensity,Supported,4,50.0,16.0,1,0,0
+Realme,Realme C63,8990,72,6.75,4,128,Android v14,5000,1,Unisoc,Supported,2,50.0,8.0,0,0,0
+Lava,Lava O3,6199,58,6.75,4,64,Android v14,5000,1,Dimensity,Supported,2,13.0,5.0,0,0,0
+iQOO,iQOO Z9 5G (8GB RAM + 256GB),20499,84,6.67,8,256,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Xiaomi,Xiaomi 14T Pro 5G,74990,91,6.67,12,256,Android v14,5000,1,Dimensity,Not Supported,4,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy Z Fold 6 Ultra,199990,96,8.2,12,256,Android v14,5000,1,Snapdragon,Not Supported,3,200.0,12.0,1,1,0
+Vivo,Vivo Y200 5G (8GB RAM +  256GB),22999,82,6.67,8,256,Android v13,4800,1,Snapdragon,Supported,3,64.0,16.0,1,0,0
+Samsung,Samsung Galaxy S24 (8GB RAM + 128GB),56669,88,6.2,8,128,Android v14,4000,1,Exynos,Not Supported,4,50.0,12.0,1,1,0
+Realme,Realme Note 50,5499,60,6.74,4,64,Android v13,5000,1,Unisoc,Supported,2,13.0,5.0,0,0,0
+Samsung,Samsung Galaxy A15 5G (8GB RAM + 256GB),19999,82,6.5,8,256,Android v14,5000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+itel,itel P55 Plus,7999,74,6.6,8,256,Android v13,5000,1,Unisoc,Supported,2,50.0,8.0,0,0,0
+Motorola,Motorola Moto G54 5G (12GB RAM +256GB),16999,85,6.5,12,256,Android v13,6000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Realme,Realme 12 5G,16999,78,6.72,6,128,Android v14,5000,1,Dimensity,Supported,3,108.0,8.0,1,0,0
+Samsung,Samsung Galaxy A54 5G (8GB RAM + 256GB),26999,89,6.4,8,256,Android v13,5000,1,Exynos,Supported,4,50.0,32.0,1,1,0
+Samsung,Samsung Galaxy A34 5G (8GB RAM + 128GB),22899,86,6.6,8,128,Android v13,5000,1,Dimensity,Supported,4,48.0,13.0,1,1,0
+Samsung,Samsung Galaxy S23 Ultra (12GB RAM + 512GB),134999,94,6.8,12,512,Android v13,5000,1,Snapdragon,Not Supported,2,200.0,12.0,1,1,0
+Poco,Poco F5,22999,84,6.67,8,256,Android v13,5000,1,Snapdragon,Not Supported,4,64.0,16.0,1,0,1
+Realme,Realme 10 Pro Plus,19218,82,6.7,6,128,Android v13,5000,1,Dimensity,Not Supported,4,108.0,16.0,1,0,0
+Asus,Asus ROG Phone 5s 5G (12GB RAM + 256GB),35073,88,6.78,12,256,Android v11,6000,1,Snapdragon,Not Supported,4,64.0,24.0,1,1,0
+Vivo,Vivo X80 Pro 5G,43999,91,6.78,12,256,Android v12,4700,1,Snapdragon,Not Supported,2,50.0,32.0,1,1,1
+OnePlus,OnePlus 10 Pro 5G,35989,89,6.7,8,128,Android v12,5000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+Vivo,Vivo V21 Pro,32999,85,6.44,8,128,Android v11,4300,1,Snapdragon,Not Supported,3,64.0,44.0,1,0,0
+Asus,Asus ROG Phone 9,99990,81,6.78,12,256,Android v15,6000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+Infinix,Infinix Hot 60 5G,11990,77,6.74,6,128,Android v16,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Realme,Realme 13 5G (8GB RAM +256GB),15790,83,6.72,8,256,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Realme,Realme 13 Pro 5G (8GB RAM + 256GB),23275,83,6.7,8,256,Android v14,5200,1,Snapdragon,Not Supported,4,50.0,32.0,1,0,0
+Honor,Honor 200 (12GB RAM + 512GB),34998,89,6.7,12,512,Android v14,5200,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,0
+Vivo,Vivo Y18i,7999,59,6.56,4,64,Android v14,5000,1,Unisoc,Supported,3,13.0,5.0,0,0,0
+itel,itel Color Pro 5G,8890,76,6.6,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+iQOO,iQOO Z10x,14990,74,6.78,6,128,Android v15,6100,1,Snapdragon,Supported,4,50.0,16.0,1,0,0
+Realme,Realme Narzo 70x 5G (8GB RAM + 128GB),13290,79,6.72,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Google,Google Pixel 10,69990,81,6.2,8,256,Android v15,5100,1,Tensor,Not Supported,3,50.0,50.0,1,1,0
+Poco,Poco F6 5G (12GB RAM +256GB),27999,85,6.67,12,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,20.0,1,1,1
+Vertu,Vertu Ironflip,489990,86,6.7,12,256,Android v13,4310,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,0
+Redmi,Redmi K80 Ultra,59990,82,6.78,12,256,Android v15,5580,1,Dimensity,Not Supported,4,50.0,50.0,1,1,1
+Tecno,Tecno Pova 6 Neo,14990,79,6.78,8,128,Android v14,7000,1,Helio,Not Supported,3,50.0,8.0,0,1,1
+Infinix,Infinix Note 50,16990,78,6.7,8,256,Android v15,5000,1,Helio,Supported,4,50.0,32.0,0,1,1
+Oppo,Oppo F25 Pro 5G (8GB RAM + 256GB),25999,86,6.7,8,256,Android v14,5000,1,Dimensity,Supported,4,64.0,32.0,1,0,0
+Honor,Honor X7b 5G,19990,83,6.8,8,256,Android v13,6000,1,Dimensity,Supported,4,108.0,8.0,1,0,1
+Realme,Realme GT 5 Pro,38990,89,6.78,12,256,Android v14,5400,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Realme,Realme GT Neo 6,24999,86,6.78,12,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,1
+Vivo,Vivo X100 Pro Plus,99990,94,6.78,12,256,Android v14,5400,1,Snapdragon,Not Supported,4,200.0,32.0,1,1,1
+Infinix,Infinix Hot 40,8990,83,6.78,8,128,Android v13,5000,1,Helio,Supported,4,50.0,32.0,0,1,0
+Vivo,Vivo T2 5G,15999,79,6.38,6,128,Android v13,4500,1,Snapdragon,Supported,3,64.0,16.0,1,0,0
+OPPO,OPPO Reno 10 Pro,33999,87,6.7,12,256,Android v13,4600,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Tecno,Tecno Phantom X2,23999,85,6.8,8,256,Android v12,5160,1,Dimensity,Not Supported,4,64.0,32.0,1,1,0
+Motorola,Motorola Moto X30 Pro,41990,91,6.67,8,128,Android v12,4450,1,Snapdragon,Not Supported,4,200.0,60.0,1,1,0
+Poco,Poco F4 5G (8GB RAM + 128GB),16999,85,6.67,8,128,Android v12,4500,1,Snapdragon,Not Supported,4,64.0,20.0,1,1,0
+Realme,Realme Narzo N65 5G,10999,74,6.67,4,128,Android v14,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Vivo,Vivo Y18s,9990,75,6.56,6,128,Android v14,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Realme,Realme 12 5G (8GB RAM + 128GB),13723,80,6.72,8,128,Android v14,5000,1,Dimensity,Supported,3,108.0,8.0,1,0,0
+Vivo,Vivo V40 SE 5G,27990,83,6.67,8,256,Android v14,5000,1,Snapdragon,Supported,4,50.0,16.0,1,1,0
+Motorola,Motorola Moto G Stylus 5G 2024,33499,87,6.7,8,256,Android v14,5000,1,Snapdragon,Supported,3,50.0,32.0,1,1,0
+Sony,Sony Xperia 1 VI,136990,91,6.5,12,256,Android v14,5000,1,Snapdragon,Supported,4,48.0,12.0,1,1,0
+Poco,Poco C65 (6GB RAM + 128GB),7999,75,6.74,6,128,Android v13,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Motorola,Motorola Moto G24 5G,11999,82,6.58,8,128,Android v14,6000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+iQOO,iQOO Neo 7 Pro,39007,83,6.78,8,128,Android v13,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,0,1
+Infinix,Infinix Zero 30 5G,23490,87,6.78,8,256,Android v13,5000,1,Dimensity,Not Supported,4,108.0,50.0,1,1,0
+Samsung,Samsung Galaxy A34 5G (8GB RAM + 128GB),22990,86,6.6,8,128,Android v13,5000,1,Dimensity,Supported,4,48.0,13.0,1,1,0
+OPPO,OPPO Reno 10 Pro,34199,87,6.7,12,256,Android v13,4600,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy A15 4G,12990,80,6.5,8,128,Android v14,5000,1,Helio,Supported,4,50.0,13.0,0,0,0
+Xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,33999,88,6.67,12,256,Android v13,5200,1,Snapdragon,Not Supported,4,200.0,32.0,1,1,1
+OnePlus,OnePlus Nord CE 2 Lite 5G,17939,81,6.59,6,128,Android v12,5000,1,Snapdragon,Supported,4,64.0,16.0,1,0,0
+Motorola,Motorola Edge 30 Fusion 5G,26999,88,6.55,8,128,Android v12,4400,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+OnePlus,OnePlus 10R 5G,26499,84,6.7,8,128,Android v12,5000,1,Dimensity,Not Supported,4,50.0,16.0,1,1,0
+Xiaomi,Xiaomi Redmi Note 12 5G,12591,77,6.67,4,128,Android v12,5000,1,Snapdragon,Supported,4,48.0,13.0,1,0,1
+Vivo,Vivo X80 Pro 5G,45994,91,6.78,12,256,Android v12,4700,1,Snapdragon,Not Supported,2,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy Note 20 Ultra 5G,64999,93,6.9,12,256,Android v10,4500,1,Exynos,Supported,4,108.0,10.0,1,1,0
+OPPO,OPPO Reno 14 Pro 5G,59990,84,6.8,12,256,Android v15,6500,1,Dimensity,Not Supported,4,108.0,50.0,1,1,1
+Samsung,Samsung Galaxy M55s 5G (12GB RAM + 256GB),34990,87,6.7,12,256,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Infinix,Infinix Zero 50 5G,34990,91,6.82,12,256,Android v15,5500,1,Dimensity,Supported,4,50.0,50.0,1,1,0
+Realme,Realme 15 Pro 5G,32990,77,6.7,8,256,Android v15,5700,1,Dimensity,Not Supported,4,50.0,32.0,1,0,0
+Honor,Honor Magic 7,59990,84,6.79,12,256,Android v15,5450,1,Snapdragon,Not Supported,4,50.0,50.0,1,1,1
+Lava,Lava Blaze X 5G,14999,75,6.67,4,128,Android v14,5000,1,Dimensity,Not Supported,3,64.0,16.0,1,0,0
+Xiaomi,Xiaomi 14 Civi (12GB RAM + 512GB),45999,90,6.55,12,512,Android v14,4700,1,Snapdragon,Not Supported,5,50.0,32.0,1,1,1
+Google,Google Pixel 8A (8GB RAM + 256GB),41999,79,6.1,8,256,Android v14,4492,1,Tensor,Not Supported,3,64.0,13.0,1,1,0
+Realme,Realme P1 Pro 5G (8GB RAM + 256GB),20499,81,6.7,8,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,0
+Vivo,Vivo V30 5G (8GB RAM + 256GB),30999,85,6.78,8,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,50.0,1,0,0
+itel,itel P55 Plus,7299,74,6.6,8,256,Android v13,5000,1,Unisoc,Supported,2,50.0,8.0,0,0,0
+Vivo,Vivo V27s,24999,82,6.78,8,128,Android v13,5000,1,Dimensity,Not Supported,4,50.0,32.0,1,0,0
+Infinix,Infinix Zero 30 5G (12GB RAM + 256GB),23299,88,6.78,12,256,Android v13,5000,1,Dimensity,Not Supported,4,108.0,50.0,1,1,0
+Xiaomi,Xiaomi Redmi K70 Ultra,49990,87,6.67,12,256,Android v14,5500,1,Dimensity,Not Supported,4,50.0,20.0,1,1,1
+Realme,Realme C53,8994,75,6.74,4,128,Android v13,5000,1,Tiger,Supported,3,108.0,8.0,0,0,0
+iQOO,iQOO Neo 9,26990,84,6.78,12,256,Android v14,5160,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,1
+Xiaomi,Xiaomi Redmi Note 15 Pro Plus,35990,80,6.78,8,256,Android v15,5000,1,Dimensity,Not Supported,4,200.0,60.0,1,0,1
+Vivo,Vivo T2x 5G,11999,75,6.58,4,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Infinix,Infinix GT 10 Pro,22490,88,6.67,8,256,Android v13,5000,1,Dimensity,Supported,4,108.0,32.0,1,0,0
+Xiaomi,Xiaomi 14 Pro,56990,93,6.73,12,256,Android v14,4880,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+iQOO,iQOO 12 Pro,64990,92,6.78,16,256,Android v14,5100,1,Snapdragon,Not Supported,4,64.0,16.0,1,1,1
+Lava,Lava Blaze 5G (6GB RAM + 128GB),9299,75,6.5,6,128,Android v12,5000,0,Dimensity,Supported,3,50.0,8.0,1,0,0
+Oppo,Oppo Reno 8T,38999,86,6.7,8,128,Android v13,4800,1,Snapdragon,Supported,4,108.0,32.0,1,1,0
+Oppo,Oppo A78,14394,78,6.56,8,128,Android v12,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Google,Google Pixel 8 Pro,84999,81,6.7,12,128,Android v14,5050,1,Tensor,Not Supported,4,50.0,10.5,1,1,0
+Samsung,Samsung Galaxy M14,13399,77,6.6,4,128,Android v13,6000,1,Exynos,Supported,4,50.0,13.0,1,0,0
+Motorola,Motorola Moto Edge 40 Lite 5G,19999,83,6.28,8,128,Android v12,4020,1,Snapdragon,Supported,3,64.0,32.0,1,0,0
+Samsung,Samsung Galaxy F13,14999,72,6.6,4,64,Android v12,6000,1,Exynos,Supported,4,50.0,8.0,0,0,0
+Vivo,Vivo V25 Pro 5G,24890,84,6.56,8,128,Android v12,4830,1,Dimensity,Not Supported,4,64.0,32.0,1,0,0
+Xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),26990,88,6.67,12,256,Android v11,5000,1,Snapdragon,Not Supported,4,108.0,16.0,1,1,1
+Motorola,Motorola Moto G31 (6GB RAM+ 128GB),12999,78,6.47,6,128,Android v11,5000,1,Helio,Supported,4,50.0,13.0,0,0,0
+Samsung,Samsung Galaxy Z Fold 4,78499,91,7.6,12,256,Android v12,4400,1,Snapdragon,Not Supported,5,50.0,10.0,1,1,0
+itel,itel S16 Pro,6990,57,6.6,2,32,Android v10,4000,0,Dimensity,Supported,4,8.0,8.0,0,0,0
+itel,itel S16,5990,52,6.5,1,16,Android v10,4000,0,Unisoc,Supported,4,8.0,8.0,0,0,0
+Sharp,Sharp Aquos R9 Pro,103990,95,6.7,12,512,Android v14,5000,1,Snapdragon,Supported,4,50.3,50.3,1,1,0
+Tecno,Tecno Spark 30 Pro Transformers Edition,15990,83,6.78,8,128,Android v14,5000,1,Helio,Supported,2,108.0,13.0,0,1,1
+Nubia,Nubia Red Magic 9 Pro Plus (24GB RAM + 1TB),80990,90,6.8,24,1024,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,0
+Realme,Realme 13 Plus 5G (8GB RAM + 256GB),22999,85,6.67,8,256,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,1,0
+Vivo,Vivo Y28s 5G (8GB RAM + 128GB),16499,80,6.56,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Realme,Realme 15 Pro Plus,37990,81,6.7,12,256,Android v15,5700,1,Dimensity,Not Supported,2,50.0,50.0,1,0,0
+Oukitel,Oukitel WP39,39375,85,6.6,6,256,Android v14,11000,1,Dimensity,Supported,4,64.0,32.0,1,1,0
+Vivo,Vivo Y300 5G,23990,75,6.74,8,128,Android v13,5000,1,Snapdragon,Supported,3,50.0,32.0,1,0,0
+Lava,Lava Yuva 5G,8800,71,6.53,4,64,Android v14,5000,1,Unisoc,Supported,3,50.0,8.0,1,0,0
+Vivo,Vivo Y200t,12990,81,6.72,8,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,8.0,1,0,1
+Realme,Realme C65 5G (4GB RAM + 128GB),10220,74,6.67,4,128,Android v14,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+iQOO,iQOO 12 Lite,29990,86,6.78,12,256,Android v14,6000,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,1
+OnePlus,OnePlus Nord CE 5 Lite 5G,22990,78,6.78,8,256,Android v15,5000,1,Snapdragon,Supported,4,50.0,32.0,1,0,0
+Vivo,Vivo V31 5G,35990,88,6.7,8,128,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,0,0
+Honor,Honor Magic 6 RSR,114990,98,6.8,24,1024,Android v14,5600,1,Snapdragon,Not Supported,4,180.0,50.0,1,1,1
+Realme,Realme 12 Pro 5G (12GB RAM + 256GB),24849,83,6.7,12,256,Android v14,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,0,0
+Vivo,Vivo V30 5G (12GB RAM + 256GB),33999,86,6.78,12,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,50.0,1,0,0
+Lava,Lava Blaze Curve 5G (8GB RAM + 256GB),16999,84,6.67,8,256,Android v13,5000,1,Dimensity,Not Supported,4,64.0,32.0,1,0,0
+Samsung,Samsung Galaxy A25 5G (8GB RAM + 256GB),19994,85,6.5,8,256,Android v14,5000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Poco,Poco M6 5G (8GB RAM + 256GB),11249,76,6.74,8,256,Android v13,5000,1,Dimensity,Supported,2,50.0,5.0,1,0,1
+Nubia,Nubia Red Magic 10 Pro Plus 5G,69990,83,6.82,16,256,Android v15,5580,1,Dimensity,Not Supported,4,108.0,32.0,1,1,0
+Tecno,Tecno Spark 20 Pro Plus,17999,85,6.78,8,256,Android v14,5000,1,Helio,Supported,3,108.0,32.0,0,1,0
+Xiaomi,Xiaomi Redmi Note 13 4G,15990,83,6.67,6,128,Android v13,5000,1,Snapdragon,Supported,4,108.0,16.0,0,1,1
+Lava,Lava Blaze 3 5G,11499,76,6.56,6,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+OPPO,OPPO A59 5G,13999,71,6.56,4,128,Android v13,5000,1,Dimensity,Supported,3,13.0,8.0,1,0,0
+OnePlus,OnePlus Ace 3V,23999,84,6.74,12,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,1
+Nokia,Nokia 6600 Max 5G,34990,85,6.56,8,128,Android v13,7100,1,Snapdragon,Supported,4,108.0,16.0,1,0,0
+Tecno,Tecno Pova 5 Pro 5G (8GB RAM + 256GB),15985,84,6.78,8,256,Android v13,5000,1,Dimensity,Supported,3,50.0,16.0,1,1,0
+Xiaomi,Xiaomi Redmi 12 5G,11999,75,6.79,4,128,Android v13,5000,1,Snapdragon,Supported,3,50.0,8.0,1,0,1
+Nothing,Nothing Phone 2 (12GB RAM + 512GB),38999,89,6.7,12,512,Android v13,4700,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,0
+OnePlus,OnePlus Nord 3 5G (16GB RAM + 256GB),30990,87,6.74,16,256,Android v13,5000,1,Dimensity,Not Supported,4,50.0,16.0,1,1,1
+iKall,iKall K333 4G,2875,37,2.8,2,16,Android v12,3000,0,Helio,Supported,2,2.0,2.0,0,0,0
+Motorola,Motorola Razr 50 Ultra,89999,93,6.9,12,512,Android v14,4000,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,0
+Realme,Realme GT Neo 6 SE,19990,84,6.78,8,256,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,1
+Xiaomi,Xiaomi Redmi K70 Pro,49990,87,6.67,12,256,Android v14,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Samsung,Samsung Galaxy A76,42990,91,6.78,8,128,Android v14,5000,1,Snapdragon,Supported,2,108.0,32.0,1,1,0
+Tecno,Tecno Spark 12,14990,81,6.7,8,128,Android v14,5000,1,Helio,Supported,2,64.0,16.0,0,1,0
+Xiaomi,Xiaomi Redmi K80 Pro,54990,81,6.78,8,256,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Xiaomi,Xiaomi Redmi Note 15,15990,82,6.73,8,128,Android v14,5000,1,Dimensity,Supported,4,64.0,32.0,0,0,1
+Vivo,Vivo T2x 5G (8GB RAM + 128GB),16290,80,6.58,8,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Samsung,Samsung Galaxy F14 4G,8999,75,6.7,4,64,Android v14,5000,1,Snapdragon,Supported,4,50.0,13.0,0,0,0
+Oppo,Oppo Reno 10 Pro Plus,49499,89,6.74,12,256,Android v13,4700,1,Snapdragon,Not Supported,4,64.0,32.0,1,1,1
+iQOO,iQOO Z9 Pro,25990,84,6.67,8,128,Android v13,5000,1,Snapdragon,Not Supported,4,108.0,32.0,1,0,0
+Infinix,Infinix Note 13 Pro,16999,81,6.91,6,128,Android v12,5000,1,Helio,Supported,2,108.0,16.0,0,0,0
+Samsung,Samsung Galaxy F64 5G,24999,85,6.7,6,128,Android v12,7000,1,Dimensity,Supported,2,64.0,32.0,1,1,0
+Xiaomi,Xiaomi Redmi 12 4G,9499,75,6.79,4,128,Android v13,5000,1,Helio,Supported,4,50.0,8.0,0,0,1
+OPPO,OPPO F21 Pro 4G,27999,82,6.5,8,128,Android v12,4500,1,Snapdragon,Supported,4,64.0,32.0,0,0,0
+Poco,Poco M4 5G,9499,75,6.58,4,64,Android v12,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,1
+Infinix,Infinix Zero 5G,12289,82,6.78,8,128,Android v11,4500,1,Dimensity,Supported,4,48.0,16.0,1,0,0
+Realme,Realme GT 2 Pro 5G,29999,88,6.7,8,128,Android v12,5000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+Poco,Poco M4 Pro 5G,11490,76,6.6,4,64,Android v11,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,1
+Apple,Apple iPhone 13 (256GB),54999,79,6.1,4,256,iOS v15,3240,1,Bionic,Not Supported,3,12.0,12.0,1,1,0
+OnePlus,OnePlus 9R 5G,26999,86,6.55,8,128,Android v11,4500,1,Snapdragon,Not Supported,2,48.0,16.0,1,1,0
+Xiaomi,Xiaomi Mi Mix Alpha,199990,95,7.92,12,512,Android v10,4050,1,Snapdragon,Not Supported,3,108.0,,1,0,0
+Poco,Poco C75 (8GB RAM + 256GB),10990,79,6.88,8,256,Android v14,5160,1,Helio,Supported,3,50.0,13.0,0,1,0
+Vivo,Vivo Y59 5G,19999,82,6.78,8,128,Android v15,6000,1,Snapdragon,Supported,4,50.0,8.0,1,0,0
+Unihertz,Unihertz Tank 3 Pro 5G,60999,97,6.79,16,512,Android v13,23800,1,Dimensity,Supported,2,200.0,50.0,1,1,1
+Motorola,Motorola Moto Edge 60 Neo,27990,88,6.67,8,256,Android v15,4700,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+Apple,Apple iPhone 16 (256GB),89900,78,6.1,8,256,iOS v18,3561,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+Apple,Apple iPhone 16 Plus (256GB),99900,75,6.7,0,256,iOS v18,4674,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+Vivo,Vivo Y03t,6499,65,6.56,4,64,Android v14,5000,1,Unisoc,Supported,3,13.0,5.0,0,0,0
+Motorola,Motorola Moto G Power 5G 2025,27990,87,6.74,8,256,Android v14,5000,1,Dimensity,Supported,4,50.0,32.0,1,1,0
+Xiaomi,Xiaomi Civi 5 Pro,43990,83,6.55,12,256,Android v15,4700,1,Dimensity,Not Supported,5,50.0,50.0,1,1,1
+Honor,Honor X60,13990,81,6.8,8,128,Android v14,5800,1,Dimensity,Not Supported,3,108.0,8.0,1,0,1
+Realme,Realme C63 5G (8GB RAM + 128GB),12670,78,6.67,8,128,Android v14,5000,1,Dimensity,Supported,2,32.0,8.0,1,0,0
+OPPO,OPPO A80 5G,17999,78,6.67,8,256,Android v14,5100,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+OnePlus,OnePlus Open 5G Apex Edition,149999,96,7.82,16,1024,Android v14,4805,1,Snapdragon,Not Supported,5,64.0,32.0,1,1,1
+Realme,Realme Narzo N61 (6GB RAM + 128GB),8498,71,6.74,6,128,Android v14,5000,1,Unisoc,Supported,2,32.0,5.0,0,0,0
+Google,Google Pixel 9 Pro Fold,172999,93,8.03,16,256,Android v14,4650,1,Tensor,Not Supported,5,48.0,10.0,1,1,0
+Lava,Lava Yuva Star,6999,63,6.75,4,64,Android v14,5000,1,Unisoc,Supported,2,13.0,5.0,0,0,0
+Realme,Realme P1 Pro 5G (12GB RAM + 256GB),20999,81,6.7,12,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,0
+Realme,Realme Narzo N63 (4GB RAM + 128GB),8999,73,6.75,4,128,Android v14,5000,1,Unisoc,Supported,2,50.0,8.0,0,1,0
+Nubia,Nubia Z60 Ultra,52990,89,6.8,8,256,Android v14,6000,1,Snapdragon,Not Supported,4,64.0,16.0,1,1,1
+Apple,Apple iPhone 15 Pro (256GB),113999,88,6.1,8,256,iOS v17,3274,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+Apple,Apple iPhone 15 Pro Max (512GB),125999,89,6.7,8,512,iOS v17,4441,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+iKall,iKall K555 New,2875,41,2.8,2,16,Android v12,3000,0,Dimensity,Supported,2,2.0,2.0,0,0,0
+Motorola,Motorola Razr 50,69990,90,6.9,8,256,Android v14,4200,1,Dimensity,Not Supported,3,50.0,32.0,1,1,0
+Tecno,Tecno Camon 20 Pro 5G,17999,84,6.67,8,128,Android v13,5000,1,Dimensity,Not Supported,4,64.0,32.0,1,0,0
+Duoqin,Duoqin Qin 3 Ultra,18990,66,5.02,8,256,Android v12,2500,1,Helio,Not Supported,2,8.0,5.0,0,0,0
+Lava,Lava Agni 2 5G,16999,82,6.78,8,256,Android v13,4700,1,Dimensity,Not Supported,2,50.0,16.0,1,0,0
+Vivo,Vivo V27 Pro,32990,84,6.78,8,128,Android v13,4600,1,Dimensity,Not Supported,4,50.0,50.0,1,0,0
+Samsung,Samsung Galaxy A23 5G,15399,79,6.6,6,128,Android v12,5000,1,Snapdragon,Supported,2,50.0,8.0,1,0,0
+Nothing,Nothing Phone 1 (12GB RAM + 256GB),34999,86,6.55,12,256,Android v12,4500,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,0
+Samsung,Samsung Galaxy A34 5G,24990,83,6.6,6,128,Android v13,5000,1,Dimensity,Supported,4,48.0,13.0,1,1,0
+Realme,Realme GT Neo 3T,20999,79,6.62,6,128,Android v12,5000,1,Snapdragon,Not Supported,4,64.0,16.0,1,0,0
+Poco,Poco M4 5G,9099,75,6.58,4,64,Android v12,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,1
+Vivo,Vivo X Fold 5G,106990,92,8.03,12,256,Android v12,4600,1,Snapdragon,Not Supported,2,50.0,16.0,1,1,0
+Realme,Realme Narzo 60,12999,75,6.59,4,64,Android v12,4500,1,Helio,Supported,4,64.0,16.0,0,1,0
+Poco,Poco M4 Pro 5G,10488,76,6.6,4,64,Android v11,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,1
+Samsung,Samsung Galaxy Note 10 Plus,43999,89,6.8,12,256,Android v9.0 (Pie),4300,1,Exynos,Supported,2,12.0,10.0,0,1,0
+Realme,Realme C61 (6GB RAM + 128GB),8999,72,6.74,6,128,Android v14,5000,1,Unisoc,Supported,2,32.0,5.0,0,0,0
+Sony,Sony Xperia 1 VII,144990,85,6.56,12,256,Android v14,5100,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Realme,Realme GT 6T (12GB RAM + 512GB),37999,88,6.78,12,512,Android v14,5500,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy M15 5G (8GB RAM + 128GB),17490,81,6.45,8,128,Android v14,6000,1,Dimensity,Supported,4,50.0,13.0,1,0,0
+iQOO,iQOO Neo 9 Pro 5G (8GB RAM + 128GB),33999,82,6.78,8,128,Android v14,5160,1,Snapdragon,Not Supported,3,50.0,16.0,1,0,1
+Xiaomi,Xiaomi Redmi A3 (6GB RAM + 128GB),8190,69,6.71,6,128,Android v13,5000,1,Helio,Supported,2,8.0,5.0,0,0,0
+Tecno,Tecno Pop 8,6899,65,6.56,4,64,Android v13,5000,1,Unisoc,Supported,2,12.0,8.0,0,0,0
+Vivo,Vivo V29 (12GB RAM + 256GB),30499,86,6.78,12,256,Android v13,4600,1,Snapdragon,Not Supported,4,50.0,50.0,1,0,0
+OnePlus,OnePlus Nord N20 SE (4GB RAM + 128GB),11989,77,6.56,4,128,Android v12,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Apple,Apple iPhone 17,89990,79,6.3,12,128,iOS v19,4190,1,Bionic,Not Supported,3,50.0,24.0,1,1,0
+Tecno,Tecno Spark 20,8499,78,6.56,8,128,Android v13,5000,1,Helio,Supported,2,50.0,32.0,0,0,0
+Realme,Realme 11 Pro (8GB RAM + 256GB),23999,84,6.7,8,256,Android v13,5000,1,Dimensity,Not Supported,3,100.0,16.0,1,0,0
+Honor,Honor 90 Lite,24990,82,6.7,8,256,Android v13,4500,1,Dimensity,Not Supported,4,100.0,16.0,1,0,0
+Samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),16499,82,6.6,8,128,Android v13,5000,1,Exynos,Supported,4,50.0,13.0,1,0,0
+Motorola,Motorola ThinkPhone,35999,88,6.6,8,256,Android v13,5000,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+Vivo,Vivo X Fold 2,107990,91,8.03,12,256,Android v13,4800,1,Snapdragon,Not Supported,5,50.0,16.0,1,1,0
+Vivo,Vivo X90 5G,50999,89,6.78,8,256,Android v13,4810,1,Dimensity,Not Supported,4,50.0,32.0,1,1,1
+Samsung,Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),99990,92,6.8,8,128,Android v12,5000,1,Snapdragon,Not Supported,2,108.0,40.0,1,1,0
+OPPO,OPPO Reno8 5G,25590,83,6.43,8,128,Android v12,4500,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+Nokia,Nokia X100 5G,17990,82,6.67,6,128,Android v11,4470,1,Snapdragon,Supported,2,48.0,16.0,1,1,0
+OPPO,OPPO A6,11990,68,6.6,4,64,Android v10,5000,1,Snapdragon,Supported,2,13.0,8.0,0,0,0
+Samsung,Samsung Galaxy S20 Ultra,69999,94,6.9,12,128,Android v10.0,5000,1,Exynos,Supported,2,108.0,40.0,0,1,0
+Vivo,Vivo V40 Lite 4G,18990,84,6.67,8,128,Android v14,5000,1,Snapdragon,Supported,3,50.0,32.0,0,1,0
+Infinix,Infinix Note 40 Pro Plus Racing Edition,21999,88,6.78,12,256,Android v14,4600,1,Dimensity,Not Supported,4,108.0,32.0,1,1,1
+Realme,Realme C63 5G (8GB RAM + 128GB),12270,78,6.67,8,128,Android v14,5000,1,Dimensity,Supported,2,32.0,8.0,1,0,0
+Realme,Realme Narzo N65 5G (8GB RAM + 128GB),12760,78,6.67,8,128,Android v14,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Itel,Itel P65,13990,67,6.7,6,256,Android v13,5000,1,Unisoc,Supported,3,50.0,8.0,0,1,0
+Xiaomi,Xiaomi 14 Civi Limited Edition,46999,90,6.55,12,512,Android v14,4700,1,Snapdragon,Not Supported,5,50.0,32.0,1,1,1
+Lava,Lava Yuva Star,7299,63,6.75,4,64,Android v14,5000,1,Unisoc,Supported,2,13.0,5.0,0,0,0
+Nokia,Nokia G42 5G (4GB RAM + 128GB),10999,73,6.56,4,128,Android v13,5000,1,Snapdragon,Supported,4,50.0,8.0,1,0,0
+Motorola,Motorola Moto X50 Ultra,46990,92,6.7,12,512,Android v14,4500,1,Snapdragon,Not Supported,4,64.0,50.0,1,1,0
+itel,itel P55 4G,6720,68,6.6,4,128,Android v13,5000,1,Unisoc,Supported,3,50.0,8.0,0,0,0
+Realme,Realme Note 60 5G,14990,65,6.74,4,128,Android v14,5000,1,Dimensity,Supported,2,32.0,5.0,1,0,0
+Infinix,Infinix Smart 8 Plus,7399,72,6.6,4,128,Android v13,6000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Infinix,Infinix Note 40 Pro 4G,21999,88,6.78,8,256,Android v14,5000,1,Helio,Supported,4,108.0,32.0,0,1,1
+Vivo,Vivo V30 Lite,25990,85,6.67,12,256,Android v13,4800,1,Snapdragon,Supported,4,64.0,50.0,1,0,0
+Apple,Apple iPhone 15 Pro Max (1TB),174900,89,6.7,8,1024,iOS v17,4441,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+Xiaomi,Xiaomi Redmi 13 4G,15999,81,6.79,6,128,Android v14,5030,1,Helio,Supported,3,108.0,13.0,0,1,1
+Infinix,Infinix Hot 40 5G,16999,84,6.78,8,128,Android v13,6000,1,Dimensity,Supported,2,64.0,16.0,1,1,0
+Realme,Realme 11 Pro Plus (12GB RAM + 256GB),25999,89,6.7,12,256,Android v13,5000,1,Dimensity,Not Supported,4,200.0,32.0,1,0,0
+Vivo,Vivo X110 Pro Plus,99990,97,6.82,12,256,Android v14,4870,1,Snapdragon,Not Supported,2,200.0,60.0,1,1,1
+Motorola,Motorola Moto G74,19990,86,6.56,8,128,Android v13,5000,1,Dimensity,Supported,3,64.0,32.0,1,1,0
+Samsung,Samsung Galaxy F14 5G (6GB RAM + 128GB),13490,71,6.6,6,128,Android v13,6000,1,Exynos,Supported,3,50.0,13.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),12239,80,6.67,6,128,Android v12,5000,1,Snapdragon,Supported,4,48.0,13.0,1,0,1
+Xiaomi,Xiaomi Redmi Note 12 Pro Plus,23899,86,6.67,8,256,Android v12,4980,1,Dimensity,Not Supported,4,200.0,16.0,1,0,1
+Realme,Realme 10,9990,74,6.4,4,64,Android v12,5000,1,Helio,Supported,3,50.0,16.0,0,0,0
+Vivo,Vivo V28,28990,84,6.7,8,256,Android v13,5000,1,Snapdragon,Supported,4,108.0,32.0,1,0,0
+Vivo,Vivo Y22,14499,72,6.55,4,64,Android v12,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+OnePlus,OnePlus Ace Racing Edition 5G,22990,83,6.59,8,128,Android v12,5000,1,Dimensity,Not Supported,4,64.0,16.0,1,1,0
+Samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),16199,84,6.6,8,128,Android v12,6000,1,Exynos,Supported,2,50.0,8.0,1,1,0
+Samsung,Samsung Galaxy S22 FE 5G,51999,79,6.4,8,128,Android v12,4200,1,Exynos,Not Supported,4,12.0,32.0,1,1,0
+Sony,Sony Xperia Pro-I,134999,90,6.5,12,512,Android v11,4500,1,Snapdragon,Supported,4,12.0,8.0,1,1,0
+Xiaomi,Xiaomi 12 Pro 5G,39990,89,6.73,8,256,Android v12,4600,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+POCO,POCO X5 5G,13480,81,6.67,6,128,Android v12,5000,1,Snapdragon,Supported,4,48.0,13.0,1,0,1
+Xiaomi,Xiaomi Mi 10T 5G,16688,80,6.67,6,128,Android v10,5000,1,Snapdragon,Not Supported,4,64.0,20.0,1,1,0
+Samsung,Samsung Galaxy A01 Core,4999,50,5.3,1,16,Android v10,3000,0,Dimensity,Supported,2,8.0,5.0,0,0,0
+OnePlus,OnePlus Ace 3 Pro (24GB RAM + 1TB),53990,89,6.78,24,1024,Android v14,6100,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Realme,Realme C63 (4GB RAM +64GB),7894,71,6.75,4,64,Android v14,5000,1,Unisoc,Supported,2,50.0,8.0,0,0,0
+HMD,HMD Crest Max,16499,83,6.67,8,256,Android v14,5000,1,Unisoc,Supported,4,64.0,50.0,1,0,0
+Realme,Realme Narzo N63 (4GB RAM + 128GB),7999,73,6.75,4,128,Android v14,5000,1,Unisoc,Supported,2,50.0,8.0,0,1,0
+HMD,HMD Skyline 5G,35999,89,6.55,12,256,Android v14,4600,1,Snapdragon,Supported,4,108.0,50.0,1,1,0
+Vivo,Vivo Y200 GT,24999,86,6.78,8,128,Android v14,6000,1,Snapdragon,Supported,3,50.0,16.0,1,1,1
+Sony,Sony Xperia 10 VI,35990,84,6.1,8,128,Android v14,5000,1,Snapdragon,Supported,3,48.0,8.0,1,1,0
+Realme,Realme 12 Pro 5G (8GB RAM + 256GB),22790,82,6.7,8,256,Android v14,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,0,0
+Samsung,Samsung Galaxy S24 Plus (12GB RAM + 512GB),109999,90,6.7,12,512,Android v14,4900,1,Exynos,Not Supported,4,50.0,12.0,1,1,0
+Lava,Lava Blaze Pro 5G,10999,79,6.78,8,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+iQOO,iQOO Z7 Pro 5G (8GB RAM + 256GB),21999,80,6.78,8,256,Android v13,4600,1,Dimensity,Not Supported,3,64.0,16.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 12 Turbo Harry Potter Edition,27990,83,6.67,12,256,Android v13,5000,1,Snapdragon,Not Supported,4,64.0,16.0,1,1,1
+Xiaomi,Xiaomi Redmi Note 12 4G,12289,79,6.67,6,64,Android v13,5000,1,Snapdragon,Supported,4,50.0,13.0,0,0,1
+Vivo,Vivo Y100 5G,24999,82,6.38,8,128,Android v13,4500,1,Dimensity,Supported,4,64.0,16.0,1,0,0
+OPPO,OPPO A17,9999,72,6.56,4,64,Android v12,5000,1,Helio,Supported,3,50.0,5.0,0,0,0
+Oppo,Oppo Find X7 5G,47999,90,6.78,12,256,Android v14,5000,1,Dimensity,Not Supported,4,64.0,32.0,1,1,1
+Infinix,Infinix Note 12 Turbo,9747,79,6.7,8,128,Android v12,5000,1,Helio,Supported,3,50.0,16.0,0,0,0
+OnePlus,OnePlus 11 Pro,69999,90,6.7,8,128,Android v13,4500,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,0
+OPPO,OPPO F23,20699,84,6.72,8,256,Android v13,5000,1,Snapdragon,Supported,4,64.0,32.0,1,0,0
+Xiaomi,Xiaomi Redmi Note 10S,13100,78,6.43,6,64,Android v11,5000,1,Helio,Supported,2,64.0,13.0,0,0,1
+Poco,Poco X3 Pro,12999,82,6.67,6,128,Android v11,5160,1,Snapdragon,Supported,2,48.0,20.0,0,0,1
+Samsung,Samsung Galaxy Z Flip 3,48999,83,6.7,8,128,Android v14,3300,1,Snapdragon,Not Supported,3,12.0,10.0,1,1,0
+Apple,Apple iPhone 13 Pro,119900,83,6.1,6,128,iOS v15.0,3095,1,Bionic,Not Supported,4,12.0,12.0,1,1,0
+Vivo,Vivo Y3 (4GB RAM + 128GB),12990,71,6.35,4,128,Android v9.0 (Pie),5000,1,Helio,Supported,4,13.0,16.0,0,0,0
+Xiaomi,Xiaomi Redmi Note 8,8999,74,6.3,4,64,Android v9.0 (Pie),4000,1,Snapdragon,Supported,2,48.0,13.0,0,0,1
+Docoss,Docoss X1,888,37,4.0,1,4,Android v4.4 (KitKat),1300,0,Dimensity,Supported,2,2.0,0.3,0,0,0
+Xiaomi,Xiaomi Redmi A3 Pro,8990,70,6.88,4,128,Android v14,5160,1,Helio,Supported,1,50.0,,0,1,0
+Realme,Realme 13 Plus 5G (12GB RAM + 256GB),25999,86,6.67,12,256,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,1,0
+Motorola,Motorola Moto G43 5G,9990,75,6.56,4,128,Android v14,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Realme,Realme C65 5G (8GB RAM + 128GB),12497,78,6.67,8,128,Android v14,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Google,Google Pixel 9 Pro XL (16GB RAM + 512GB),139999,93,6.8,16,512,Android v14,5060,1,Tensor,Not Supported,4,50.0,42.0,1,1,0
+Samsung,Samsung W25 Flip,103990,92,6.7,12,256,Android v14,4000,1,Snapdragon,Not Supported,3,50.0,10.0,1,1,0
+Samsung,Samsung Galaxy Z Fold Special Edition,169990,97,8.0,16,512,Android v14,4400,1,Snapdragon,Not Supported,5,200.0,10.0,1,1,0
+Honor,Honor 300 Pro,54990,85,6.82,12,512,Android v15,5000,1,Snapdragon,Not Supported,5,200.0,50.0,1,1,0
+Tecno,Tecno Spark 20 Pro 5G,15999,81,6.78,8,256,Android v14,5000,1,Dimensity,Supported,3,108.0,8.0,1,0,0
+Oppo,Oppo A1s 5G,13990,77,6.72,12,256,Android v14,5000,1,Dimensity,Not Supported,3,50.0,8.0,1,0,0
+itel,itel RS4,8990,72,6.56,8,128,Android v13,5000,1,Helio,Not Supported,2,50.0,8.0,0,0,0
+itel,itel S24,8990,75,6.6,8,128,Android v13,5000,1,Helio,Supported,3,108.0,8.0,0,0,0
+Samsung,Samsung Galaxy M55 (12GB RAM + 256GB),27899,88,6.67,12,256,Android v14,5000,1,Snapdragon,Supported,4,50.0,50.0,1,1,0
+Motorola,Motorola Moto G05,8990,64,6.67,4,128,Android v14,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Energizer,Energizer P28K,22990,83,6.78,8,256,Android v14,28000,1,Helio,Supported,4,60.0,16.0,0,1,0
+Lava,Lava Yuva 3 (4GB RAM + 128GB),6699,66,6.5,4,128,Android v13,5000,1,Unisoc,Supported,2,13.0,5.0,0,0,0
+Samsung,Samsung Galaxy S24 (8GB RAM + 512GB),77999,89,6.2,8,512,Android v14,4000,1,Exynos,Not Supported,4,50.0,12.0,1,1,0
+Realme,Realme Note 1 5G,19990,84,6.67,8,256,Android v14,5000,1,Dimensity,Not Supported,4,108.0,16.0,1,0,0
+Realme,Realme C67 5G (6GB RAM + 128GB),11668,78,6.72,6,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Realme,Realme C67 5G (6GB RAM + 128GB),11674,78,6.72,6,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Poco,Poco M6 Pro 5G (4GB RAM + 128GB),10749,75,6.79,4,128,Android v13,5000,1,Snapdragon,Supported,3,50.0,8.0,1,0,1
+Motorola,Motorola Razr 40,44999,89,6.9,8,256,Android v14,4200,1,Snapdragon,Not Supported,3,64.0,32.0,1,1,0
+Xiaomi,Xiaomi Redmi K80,44990,87,6.78,8,128,Android v14,6500,1,Snapdragon,Not Supported,4,64.0,32.0,1,1,1
+Motorola,Motorola Rizr Rollable,159990,86,5.0,12,512,Android v13,3500,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,0
+Xiaomi,Xiaomi Redmi Note 11R,12990,73,6.58,4,128,Android v12,5000,1,Dimensity,Supported,3,13.0,5.0,1,0,1
+OPPO,OPPO F21s Pro,17999,82,6.43,8,128,Android v12,4500,1,Snapdragon,Supported,4,64.0,16.0,1,0,0
+Vivo,Vivo Y22 (6GB RAM + 128GB),19990,75,6.55,6,128,Android v12,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Realme,Realme 9i 5G (6GB RAM + 128GB),11899,78,6.6,6,128,Android v12,5000,1,Dimensity,Supported,4,50.0,8.0,1,0,0
+Vivo,Vivo Y35,16989,79,6.58,8,128,Android v12,5000,1,Snapdragon,Supported,4,50.0,16.0,0,0,0
+Nothing,Nothing Phone 1 (8GB RAM + 256GB),26750,86,6.55,8,256,Android v12,4500,1,Snapdragon,Not Supported,3,50.0,16.0,1,1,0
+Infinix,Infinix Note 12 5G,10990,78,6.7,6,64,Android v12,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+OPPO,OPPO A57 4G (4GB RAM + 64 GB),12990,69,6.56,4,64,Android v12,5000,1,Helio,Supported,3,13.0,8.0,0,0,0
+Samsung,Samsung Galaxy F24 5G,14999,78,6.6,4,128,Android v12,5000,1,Snapdragon,Supported,4,50.0,8.0,1,1,0
+Realme,Realme 11 Pro,24998,83,6.7,8,128,Android v13,5000,1,Dimensity,Not Supported,3,100.0,16.0,1,0,0
+Samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),35990,89,6.5,8,128,Android v12,5000,1,Exynos,Supported,2,64.0,32.0,1,1,0
+Poco,Poco F4 5G,17599,82,6.67,6,128,Android v12,4500,1,Snapdragon,Not Supported,4,64.0,20.0,1,1,0
+Xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),15205,80,6.43,6,128,Android v11,5000,1,Snapdragon,Supported,2,50.0,13.0,0,0,1
+Xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,32999,84,6.67,6,128,Android v12,5200,1,Snapdragon,Supported,2,108.0,32.0,1,0,1
+OPPO,OPPO Reno 8 Pro 5G,31590,85,6.7,12,256,Android v12,4500,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+Vivo,Vivo Y10,12490,64,6.51,4,128,Android v11,5000,0,Helio,Not Supported,3,13.0,8.0,0,0,0
+Infinix,Infinix Note 12,7799,74,6.7,4,64,Android v11,5000,1,Helio,Supported,3,50.0,16.0,0,0,0
+Samsung,Samsung Galaxy Z Flip 4 5G,57990,88,6.7,8,128,Android v14,3700,1,Snapdragon,Not Supported,3,12.0,10.0,1,1,0
+Samsung,Samsung Galaxy A53 5G,22949,87,6.5,6,128,Android v12,5000,1,Exynos,Supported,2,64.0,32.0,1,1,0
+Nokia,Nokia X60 Pro 5G,49990,90,6.51,8,128,Android v11,6000,1,Snapdragon,Supported,2,200.0,32.0,1,0,0
+Xiaomi,Xiaomi Redmi 10,8490,71,6.7,4,64,Android v11,6000,1,Snapdragon,Supported,3,50.0,5.0,0,0,0
+OPPO,OPPO Reno 6,26850,83,6.43,8,128,Android v11,4300,1,Dimensity,Not Supported,4,64.0,32.0,1,1,0
+Samsung,Samsung Galaxy A52,19990,83,6.5,6,128,Android v11,4500,1,Snapdragon,Supported,2,64.0,32.0,0,0,0
+Vivo,Vivo Y19e,7990,66,6.68,4,128,Android v14,5000,1,Unisoc,Supported,2,16.0,5.0,0,0,0
+Realme,Realme P3 Pro 5G,27990,85,6.78,8,256,Android v15,5500,1,Snapdragon,Not Supported,4,50.0,50.0,1,0,0
+Realme,Realme P3 5G,19990,82,6.78,8,128,Android v15,5500,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Samsung,Samsung Galaxy A07 5G,9499,66,6.7,4,128,Android v14,5500,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Samsung,Samsung Galaxy Z Fold 6 (12GB RAM + 512GB),156996,93,7.6,12,512,Android v14,4400,1,Snapdragon,Not Supported,5,50.0,10.0,1,1,0
+itel,itel A80,7999,61,6.7,3,128,Android v14,5000,1,Unisoc,Supported,2,50.0,8.0,0,0,0
+Tecno,Tecno Camon 30 5G (12GB RAM + 512GB),26999,85,6.78,12,512,Android v14,5000,1,Dimensity,Supported,4,50.0,50.0,1,0,1
+Vivo,Vivo Y18 (4GB RAM + 128GB),9499,72,6.56,4,128,Android v14,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Xiaomi,Xiaomi Redmi Note 13 Pro Plus World Champions Edition,34999,88,6.67,12,512,Android v13,5000,1,Dimensity,Not Supported,4,200.0,16.0,1,1,1
+Oppo,Oppo A60 4G,15990,77,6.67,8,128,Android v14,5000,1,Snapdragon,Supported,3,50.0,8.0,0,0,0
+iQOO,iQOO Neo 9S Pro 5G,30990,86,6.78,12,256,Android v14,5160,1,Dimensity,Not Supported,3,50.0,16.0,1,1,1
+Samsung,Samsung Galaxy F17 5G,16990,75,6.67,6,128,Android v15,6000,1,Dimensity,Supported,4,108.0,32.0,1,0,0
+Tecno,Tecno Camon 30,14990,85,6.78,8,256,Android v14,5000,1,Helio,Supported,4,50.0,50.0,0,1,1
+Vivo,Vivo Y28 5G (6GB RAM + 128GB),14994,77,6.56,6,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Meizu,Meizu 21 Pro,57999,89,6.79,12,256,Android v14,5050,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,1
+Lava,Lava Yuva 3,6699,64,6.5,4,64,Android v13,5000,1,Unisoc,Supported,2,13.0,5.0,0,0,0
+Poco,Poco M6 Pro 5G (8GB RAM + 256GB),14999,80,6.79,8,256,Android v13,5000,1,Snapdragon,Supported,3,50.0,8.0,1,0,1
+Tecno,Tecno Spark Go 2024,6699,64,6.56,3,64,Android v13,5000,1,Unisoc,Supported,2,13.0,8.0,0,0,0
+Asus,Asus ROG Phone 8 Pro,94999,93,6.78,16,512,Android v14,5500,1,Snapdragon,Not Supported,4,50.0,32.0,1,1,0
+Motorola,Motorola Moto G55,23990,86,6.49,8,128,Android v14,5000,1,Dimensity,Supported,3,50.0,16.0,1,1,0
+Samsung,Samsung Galaxy F34 5G (8GB RAM + 128GB),25999,85,6.5,8,128,Android v13,6000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Vivo,Vivo X Fold 4,139990,86,8.2,12,256,Android v14,6365,1,Snapdragon,Not Supported,5,50.0,32.0,1,1,0
+Xiaomi,Xiaomi Redmi K70,29990,85,6.67,12,256,Android v14,5000,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,1
+Sony,Sony Xperia 1 V,125990,91,6.5,12,256,Android v13,5000,1,Snapdragon,Supported,4,48.0,12.0,1,1,0
+Tecno,Tecno Spark 10 5G (8GB RAM + 128GB),10699,78,6.56,8,128,Android v13,5000,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Motorola,Motorola Razr 40 Ultra,62999,89,6.9,8,256,Android v14,3800,1,Snapdragon,Not Supported,3,13.0,32.0,1,1,0
+Samsung,Samsung Galaxy F14 5G,11990,68,6.6,4,128,Android v13,6000,1,Exynos,Supported,3,50.0,13.0,1,0,0
+Samsung,Samsung Galaxy S23 Plus (8GB RAM + 512GB),95000,89,6.6,8,512,Android v13,4700,1,Snapdragon,Not Supported,4,50.0,12.0,1,1,0
+Samsung,Samsung Galaxy Z Fold 5,105999,92,7.6,12,256,Android v13,4400,1,Snapdragon,Not Supported,5,50.0,10.0,1,1,0
+Vivo,Vivo X Flip,71990,89,6.74,12,256,Android v14,4400,1,Snapdragon,Not Supported,3,50.0,32.0,1,1,0
+Lava,Lava Storm 5G,12499,81,6.78,8,128,Android v13,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+Apple,Apple iPhone 14 Plus (256GB),64999,82,6.7,6,256,iOS v16,4325,1,Bionic,Not Supported,3,12.0,12.0,1,1,0
+Vivo,Vivo Y16,8890,65,6.51,3,32,Android v12,5000,1,Helio,Supported,3,13.0,5.0,0,0,0
+Xiaomi,Xiaomi 13 Ultra 5G,71499,95,6.73,12,256,Android v13,5000,1,Snapdragon,Not Supported,2,50.3,32.0,1,1,1
+Realme,Realme 9 5G,10999,75,6.5,4,64,Android v11,5000,1,Dimensity,Supported,4,48.0,16.0,1,0,0
+Honor,Honor 60 SE 5G,24990,75,6.67,8,128,Android v11,4300,1,Dimensity,Not Supported,4,64.0,16.0,1,0,0
+Samsung,Samsung Galaxy M53 5G,20999,85,6.7,6,128,Android v12,5000,1,Dimensity,Supported,2,108.0,32.0,1,0,0
+Realme,Realme C35,7999,71,6.6,4,64,Android v11,5000,1,Tiger,Supported,4,50.0,8.0,0,0,0
+Samsung,Samsung Galaxy A13,10890,75,6.6,4,64,Android v12,5000,1,Dimensity,Supported,2,50.0,8.0,0,0,0
+Vivo,Vivo X80 5G,37239,86,6.78,8,128,Android v12,4500,1,Dimensity,Not Supported,4,50.0,32.0,1,0,0
+Apple,Apple iPhone 14 Mini,69990,70,5.42,6,128,iOS v15,3500,1,Bionic,Not Supported,3,12.0,12.0,0,1,0
+Xiaomi,Xiaomi Mi 11T Pro 5G,22999,86,6.67,8,128,Android v11,5000,1,Snapdragon,Not Supported,4,108.0,16.0,1,1,1
+Xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,19999,83,6.67,6,128,Android v11,5200,1,Snapdragon,Supported,2,108.0,32.0,1,0,1
+Realme,Realme GT Master Edition 5G,24990,84,6.43,8,128,Android v11,4300,1,Snapdragon,Not Supported,4,64.0,32.0,1,1,0
+Poco,Poco X5 Pro,18799,80,6.67,6,128,Android v12,5000,1,Snapdragon,Not Supported,4,108.0,16.0,1,0,1
+OnePlus,OnePlus Nord 2 5G,24990,84,6.43,8,128,Android v11,4500,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+itel,itel A36,4990,48,5.5,1,16,Android v9.0 (Pie),3020,0,Dimensity,Supported,2,5.0,5.0,0,0,0
+OPPO,OPPO X 2021,134999,86,7.4,8,256,Android v11,4000,1,Snapdragon,Not Supported,4,64.0,16.0,0,0,0
+Xiaomi,Xiaomi Redmi K20 Pro Signature Edition,480000,88,6.39,8,256,Android v9.0 (Pie),4000,1,Snapdragon,Not Supported,4,48.0,20.0,0,1,0
+Honor,Honor Tablet GT Pro,28990,72,12.3,8,128,Android v14,10050,1,Snapdragon,Not Supported,2,13.0,9.0,0,0,0
+Xiaomi,Xiaomi Redmi K70 Extreme Edition (24GB RAM +1TB),47990,89,6.67,24,1024,Android v14,5500,1,Dimensity,Not Supported,4,50.0,20.0,1,1,1
+Apple,Apple iPhone SE 4 Plus,59990,70,6.7,0,64,iOS v18,3279,1,Bionic,Not Supported,2,48.0,12.0,1,1,0
+Apple,Apple iPhone 16 Pro (512GB),149900,90,6.3,8,512,iOS v18,3582,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+Tecno,Tecno Spark 30C,13990,61,6.67,4,128,Android v14,5000,1,Helio,Supported,2,50.0,8.0,0,0,1
+Oppo,Oppo Find N5,159990,93,7.56,12,256,Android v14,5000,1,Snapdragon,Not Supported,5,50.0,32.0,1,1,0
+Google,Google Pixel 10 Pro XL,139990,85,6.82,16,256,Android v15,5100,1,Tensor,Not Supported,4,50.0,50.0,1,1,0
+iQOO,iQOO Z10s 5G,22990,85,6.78,8,128,Android v15,5500,1,Dimensity,Not Supported,4,50.0,32.0,1,0,0
+Xiaomi,Xiaomi Redmi A3x (4GB RAM + 128GB),7644,65,6.71,4,128,Android v14,5000,1,Unisoc,Supported,3,8.0,5.0,0,0,0
+Realme,Realme 15 5G,19990,75,6.74,8,256,Android v15,5500,1,Dimensity,Supported,4,50.0,50.0,1,0,0
+itel,itel A50C,5695,49,6.56,2,32,Android v14,4000,1,Unisoc,Supported,2,8.0,5.0,0,0,0
+itel,itel A50,6235,54,6.6,4,64,Android v14,5000,1,Unisoc,Supported,2,8.0,5.0,0,0,0
+Tecno,Tecno POP 9,7999,64,6.67,4,128,Android v14,5000,1,Unisoc,Supported,2,50.0,8.0,0,0,0
+Tecno,Tecno Spark 30 5G,15990,78,6.67,6,128,Android v14,5000,1,Dimensity,Supported,2,108.0,8.0,1,1,0
+Realme,Realme 14,17990,74,6.72,8,256,Android v15,5300,1,Dimensity,Supported,3,50.0,32.0,1,0,0
+OPPO,OPPO A4x 5G,14990,76,6.74,6,128,Android v15,5500,1,Dimensity,Supported,2,50.0,8.0,1,0,0
+Poco,Poco F6 Deadpool Limited Edition,29999,85,6.67,12,256,Android v14,5000,1,Snapdragon,Not Supported,3,50.0,20.0,1,1,1
+Honor,Honor X5b Plus,8990,70,6.56,4,128,Android v14,5200,1,Helio,Supported,2,50.0,5.0,0,0,1
+HMD,HMD Crest,14490,79,6.67,6,128,Android v14,5000,1,Unisoc,Supported,3,50.0,50.0,1,0,0
+Lava,Lava Blaze X 5G (8GB RAM + 128GB),16999,80,6.67,8,128,Android v14,5000,1,Dimensity,Not Supported,3,64.0,16.0,1,0,0
+Boox,Boox Palma 2,23990,55,6.13,6,128,Android v13,3950,0,Dimensity,Supported,1,16.0,,0,0,0
+Sony,Sony Xperia Pro-C,144990,91,6.0,12,512,Android v14,5000,1,Snapdragon,Supported,4,50.0,12.0,1,1,0
+Lava,Lava O2,7999,75,6.5,8,128,Android v13,5000,1,Tiger,Supported,3,50.0,8.0,0,0,0
+OPPO,OPPO Reno 14 5G,39990,89,6.8,12,256,Android v15,6000,1,Dimensity,Not Supported,2,50.0,32.0,1,1,1
+Vivo,Vivo Y18e,7999,67,6.56,4,64,Android v14,5000,1,Helio,Supported,3,13.0,5.0,0,0,0
+Vivo,Vivo Y28 5G (8GB RAM + 128GB),16400,79,6.56,8,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,0,0
+Honor,Honor Magic 6 Lite,34999,84,6.78,8,256,Android v13,5300,1,Snapdragon,Not Supported,4,108.0,16.0,1,1,1
+Motorola,Motorola Moto E14,6999,62,6.56,2,64,Android v14,5000,1,Unisoc,Supported,2,13.0,5.0,0,0,0
+Samsung,Samsung Galaxy A05 (6GB RAM + 128GB),11998,74,6.7,6,128,Android v13,5000,1,Helio,Supported,3,50.0,8.0,0,0,0
+Vivo,Vivo X100s,46990,91,6.78,12,256,Android v14,5100,1,Dimensity,Not Supported,4,64.0,32.0,1,1,1
+Infinix,Infinix Smart 8 HD,6222,64,6.6,3,64,Android v13,5000,1,Unisoc,Supported,3,13.0,8.0,0,0,0
+Nubia,Nubia Red Magic 9 Pro 5G,56990,87,6.8,16,256,Android v14,6500,1,Snapdragon,Not Supported,4,50.0,16.0,1,1,0
+Vivo,Vivo V29 Pro (12GB RAM + 256GB),36999,85,6.78,12,256,Android v13,4600,1,Dimensity,Not Supported,4,50.0,50.0,1,0,0
+Apple,Apple iPhone 15 Plus (512GB),99900,85,6.7,6,512,iOS v17,4383,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+Apple,Apple iPhone 15 (512GB),86849,84,6.1,6,512,iOS v17,3349,1,Bionic,Not Supported,3,48.0,12.0,1,1,0
+Apple,Apple iPhone 15 Pro (512GB),115999,89,6.1,8,512,iOS v17,3274,1,Bionic,Not Supported,4,48.0,12.0,1,1,0
+itel,itel Aura 05i,5549,55,6.6,2,32,Android v13,4000,0,Unisoc,Supported,2,5.0,2.0,0,0,0
+Oppo,Oppo A18,8999,64,6.56,4,64,Android v13,5000,0,Helio,Supported,3,8.0,5.0,0,0,0
+Tecno,Tecno Pova 5 Pro,13999,83,6.78,8,128,Android v13,5000,1,Dimensity,Supported,3,50.0,16.0,1,1,0
+Samsung,Samsung Galaxy M34 5G (8GB RAM + 128GB),17490,84,6.5,8,128,Android v13,6000,1,Exynos,Supported,4,50.0,13.0,1,1,0
+Meizu,Meizu 21,38990,89,6.55,8,256,Android v13,4800,1,Snapdragon,Not Supported,4,200.0,32.0,1,1,1
+Realme,Realme 11 Pro (12GB RAM + 256GB),23900,85,6.7,12,256,Android v13,5000,1,Dimensity,Not Supported,3,100.0,16.0,1,0,0
+Tecno,Tecno Phantom V Flip,50999,88,6.9,8,256,Android v14,4000,1,Dimensity,Not Supported,3,64.0,32.0,1,1,0
+Vivo,Vivo Y27 5G,20999,76,6.64,4,128,Android v13,5000,1,Dimensity,Supported,3,50.0,8.0,1,1,0
+Infinix,Infinix Zero 40 4G,19990,86,6.78,8,256,Android v14,5000,1,Helio,Not Supported,4,108.0,50.0,0,1,1
+Realme,Realme C56,12990,75,6.74,4,64,Android v14,5000,1,Helio,Supported,3,50.0,16.0,0,0,0
+OPPO,OPPO Find N3 Flip,69994,91,6.8,12,256,Android v14,4300,1,Dimensity,Not Supported,4,50.0,32.0,1,1,0
+Vivo,Vivo Y16 (4GB RAM + 128GB),16999,69,6.51,4,128,Android v12,5000,1,Helio,Supported,3,13.0,5.0,0,0,0
+OPPO,OPPO F24 4G,17990,78,6.41,6,64,Android v13,5000,1,Snapdragon,Supported,4,50.0,16.0,0,0,0
+Vivo,Vivo Y57,18990,82,6.6,8,128,Android v13,5000,1,Dimensity,Supported,3,50.0,16.0,1,0,0
+POCO,POCO X5 5G (8GB RAM + 256GB),16950,84,6.67,8,256,Android v12,5000,1,Snapdragon,Supported,4,48.0,13.0,1,0,1
+Infinix,Infinix Hot 30i,9499,76,6.6,8,128,Android v12,5000,1,Helio,Supported,2,50.0,8.0,0,0,0
